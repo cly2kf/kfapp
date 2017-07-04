@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="light_gray">#B0B0B0</color>
+    <color name="dialogTxtColor">#0048fc</color>
+
+    <!-- LoadToast -->
+    <color name="color_accent">#7c4dff</color>
+    <color name="color_success">#3CCD88</color>
+    <color name="color_error">#f44336</color>
+
+    <!-- AppMsg -->
+    <color name="appmsg_alert">#CC0000</color>
+    <color name="appmsg_confirm">#FF8800</color>
+    <color name="appmsg_info">#669900</color>
+    <color name="appmsg_custom">#454545</color>
+
+    <!-- CircularProgress变化的四个颜色 -->
+    <color name="CircularProgress_1">#FFC93437</color>
+    <color name="CircularProgress_2">#FF375BF1</color>
+    <color name="CircularProgress_3">#FFF7D23E</color>
+    <color name="CircularProgress_4">#FF34A350</color>
+
+    <!-- SweetAlertDialog-->
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+
+    <!-- TimeSquare日历-->
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+
+    <!-- ContextMenu点击动画展开菜单 -->
+    <color name="menu_fragment_background">#B3000000</color>
+    <color name="menu_item_background">#f2f2f2</color>
+    <color name="divider_color">#b5b5b5</color>
+
+    <!-- SweetSheet底部弹出可拉动的框 -->
+    <color name="indicator_normal">#fff0f0f0</color>
+    <color name="indicator_select">#F72E02</color>
+    <color name="theme_gray">#F5F5F5</color>
+    <color name="slider_color_normal">#F72E02</color>
+    <color name="slider_color">#ff969696</color>
+
+    <!-- SlideDateTimePicker日期时间选择器 -->
+    <item name="gray_holo_dark" type="color">#ff464646</item>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+
+    <!-- BasePopupWindow -->
+    <color name="popup_bg">#8f000000</color>
+    <color name="line_bg">#CDCDCD</color>
+    <color name="comment_popup_bg">#292929</color>
+    <color name="comment_popup_tx_bg">#c7c7c7</color>
+    <color name="click_bg">#c7c7c7</color>
+    <color name="menu_bg">#2b2b2b</color>
+    <color name="menu_click_bg">#515151</color>
+
+    <!-- JCVideoPlayer -->
+    <color name="biz_audio_progress_bg">#ff0000</color>
+    <color name="biz_audio_progress_first">#ffffff</color>
+    <color name="biz_audio_progress_second">#6b6666</color>
+    <color name="default_bg">#aa000000</color>
+    <color name="black_a10_color">#1a000000</color>
+    <color name="white_fafaf8">#fafaf8</color>
+
+    <!-- Picker -->
+    <color name="custom_main">#44619c</color>
+    <color name="custom_main_dark">#304070</color>
+    <color name="custom_bg_grey">#F0F0F0</color>
+    <color name="custom_txt_whitegray">#D5D5D5</color>
+    <color name="custom_txt_midiumgray">#909090</color>
+    <color name="custom_txt_darkgray">#606060</color>
+    <color name="black_87">#de000000</color>
+    <color name="black_54">#8a000000</color>
+    <color name="black_20">#14000000</color>
+    <color name="black_30">#1d000000</color>
+
+    <!-- SwipeToLoadLayout -->
+    <color name="google_blue">#4285F4</color>
+    <color name="google_red">#EA4335</color>
+    <color name="google_green">#34A853</color>
+    <color name="google_yellow">#FBBC05</color>
+
+    <!-- MagicProgressCircle -->
+    <color name="mpc_start_color">#FF00FFED</color>
+    <color name="mpc_end_color">#FFED00FF</color>
+    <!-- 没有被渐变填充区域的颜色 -->
+    <color name="mpc_default_color">#1AFFFFFF</color>
+
+    <!-- PullToNext -->
+    <color name="bg_pulltonext">#F8F8F8</color>
+
+    <!-- ProgressPieView -->
+    <color name="default_background_color">@android:color/transparent</color>
+    <color name="default_progress_color">#33b5e5</color>
+    <color name="default_stroke_color">#33b5e5</color>
+    <color name="default_text_color">#333333</color>
+
+</resources>

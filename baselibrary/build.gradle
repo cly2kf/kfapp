@@ -1,0 +1,50 @@
+apply plugin: 'com.android.library'
+
+android {
+	compileSdkVersion 24
+	buildToolsVersion '25.0.0'
+
+	defaultConfig {
+		minSdkVersion 14
+		targetSdkVersion 22
+		versionCode 1
+		versionName "1.0"
+
+		multiDexEnabled true
+	}
+
+	buildTypes {
+		release {
+			minifyEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+		}
+	}
+
+//	dexOptions {
+//		incremental true
+//		jumboMode = true
+//	}
+}
+
+repositories {
+
+}
+
+dependencies {
+	compile fileTree(dir: 'libs', include: ['*.jar'])
+	testCompile 'junit:junit:4.12'
+	compile 'com.android.support:support-v4:24.2.1'
+	compile 'com.android.support:appcompat-v7:24.2.1'
+	compile 'com.android.support:design:24.2.1'
+	compile 'com.android.support:recyclerview-v7:24.2.1'
+	compile 'com.android.support:cardview-v7:24.2.1'
+	compile 'com.android.support:percent:24.2.1'
+	// json相关
+	compile 'com.google.code.gson:gson:2.5'
+	compile 'com.alipay.euler:andfix:0.5.0@aar'
+
+	compile 'com.squareup.okhttp3:okhttp:3.4.2'
+	compile 'com.github.bumptech.glide:glide:3.7.0'
+	compile 'com.github.bumptech.glide:okhttp3-integration:1.4.0@aar'
+	compile 'com.jakewharton:butterknife:7.0.1'
+}

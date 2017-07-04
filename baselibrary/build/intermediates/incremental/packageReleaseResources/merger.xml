@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet config="main$Generated" generated="true"><source path="F:\project\KFApp\baselibrary\src\main\res"/><source path="F:\project\KFApp\baselibrary\build\generated\res\rs\release"/><source path="F:\project\KFApp\baselibrary\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="F:\project\KFApp\baselibrary\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\project\KFApp\baselibrary\src\main\res"><file name="a1" path="F:\project\KFApp\baselibrary\src\main\res\anim\a1.xml" qualifiers="" type="anim"/><file name="a2" path="F:\project\KFApp\baselibrary\src\main\res\anim\a2.xml" qualifiers="" type="anim"/><file name="activity_fade_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_fade_in.xml" qualifiers="" type="anim"/><file name="activity_slide_in_bottom" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_slide_in_bottom.xml" qualifiers="" type="anim"/><file name="activity_slide_in_left" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_slide_in_left.xml" qualifiers="" type="anim"/><file name="activity_slide_in_right" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_slide_in_right.xml" qualifiers="" type="anim"/><file name="activity_slide_out_left" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_slide_out_left.xml" qualifiers="" type="anim"/><file name="activity_slide_out_right" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_slide_out_right.xml" qualifiers="" type="anim"/><file name="activity_slide_out_top" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_slide_out_top.xml" qualifiers="" type="anim"/><file name="activity_staty" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_staty.xml" qualifiers="" type="anim"/><file name="activity_unzoom_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\activity_unzoom_out.xml" qualifiers="" type="anim"/><file name="alpha" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha.xml" qualifiers="" type="anim"/><file name="alpha_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha_in.xml" qualifiers="" type="anim"/><file name="alpha_rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha_rotate.xml" qualifiers="" type="anim"/><file name="alpha_scale" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha_scale.xml" qualifiers="" type="anim"/><file name="alpha_scale_rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha_scale_rotate.xml" qualifiers="" type="anim"/><file name="alpha_scale_translate" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha_scale_translate.xml" qualifiers="" type="anim"/><file name="alpha_scale_translate_rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha_scale_translate_rotate.xml" qualifiers="" type="anim"/><file name="alpha_translate" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha_translate.xml" qualifiers="" type="anim"/><file name="alpha_translate_rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\alpha_translate_rotate.xml" qualifiers="" type="anim"/><file name="animator" path="F:\project\KFApp\baselibrary\src\main\res\anim\animator.xml" qualifiers="" type="anim"/><file name="animator_set" path="F:\project\KFApp\baselibrary\src\main\res\anim\animator_set.xml" qualifiers="" type="anim"/><file name="appear_bottom_right_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\appear_bottom_right_in.xml" qualifiers="" type="anim"/><file name="appear_bottom_right_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\appear_bottom_right_out.xml" qualifiers="" type="anim"/><file name="appear_top_left_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\appear_top_left_in.xml" qualifiers="" type="anim"/><file name="appear_top_left_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\appear_top_left_out.xml" qualifiers="" type="anim"/><file name="block_move_right" path="F:\project\KFApp\baselibrary\src\main\res\anim\block_move_right.xml" qualifiers="" type="anim"/><file name="color_animator" path="F:\project\KFApp\baselibrary\src\main\res\anim\color_animator.xml" qualifiers="" type="anim"/><file name="cycle_7" path="F:\project\KFApp\baselibrary\src\main\res\anim\cycle_7.xml" qualifiers="" type="anim"/><file name="dd_mask_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\dd_mask_in.xml" qualifiers="" type="anim"/><file name="dd_mask_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\dd_mask_out.xml" qualifiers="" type="anim"/><file name="dd_menu_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\dd_menu_in.xml" qualifiers="" type="anim"/><file name="dd_menu_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\dd_menu_out.xml" qualifiers="" type="anim"/><file name="dialog_dismiss" path="F:\project\KFApp\baselibrary\src\main\res\anim\dialog_dismiss.xml" qualifiers="" type="anim"/><file name="dialog_show" path="F:\project\KFApp\baselibrary\src\main\res\anim\dialog_show.xml" qualifiers="" type="anim"/><file name="disappear_bottom_right_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\disappear_bottom_right_in.xml" qualifiers="" type="anim"/><file name="disappear_bottom_right_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\disappear_bottom_right_out.xml" qualifiers="" type="anim"/><file name="disappear_top_left_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\disappear_top_left_in.xml" qualifiers="" type="anim"/><file name="disappear_top_left_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\disappear_top_left_out.xml" qualifiers="" type="anim"/><file name="drawroll_ani_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\drawroll_ani_in.xml" qualifiers="" type="anim"/><file name="drawroll_ani_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\drawroll_ani_out.xml" qualifiers="" type="anim"/><file name="empty_shake" path="F:\project\KFApp\baselibrary\src\main\res\anim\empty_shake.xml" qualifiers="" type="anim"/><file name="fade" path="F:\project\KFApp\baselibrary\src\main\res\anim\fade.xml" qualifiers="" type="anim"/><file name="fadein" path="F:\project\KFApp\baselibrary\src\main\res\anim\fadein.xml" qualifiers="" type="anim"/><file name="fade_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\fade_out.xml" qualifiers="" type="anim"/><file name="flip_horizontal_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\flip_horizontal_in.xml" qualifiers="" type="anim"/><file name="flip_horizontal_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\flip_horizontal_out.xml" qualifiers="" type="anim"/><file name="flip_vertical_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\flip_vertical_in.xml" qualifiers="" type="anim"/><file name="flip_vertical_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\flip_vertical_out.xml" qualifiers="" type="anim"/><file name="gallery_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\gallery_in.xml" qualifiers="" type="anim"/><file name="grow_from_top" path="F:\project\KFApp\baselibrary\src\main\res\anim\grow_from_top.xml" qualifiers="" type="anim"/><file name="hold" path="F:\project\KFApp\baselibrary\src\main\res\anim\hold.xml" qualifiers="" type="anim"/><file name="hyperspace_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\hyperspace_in.xml" qualifiers="" type="anim"/><file name="hyperspace_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\hyperspace_out.xml" qualifiers="" type="anim"/><file name="in_scale_x" path="F:\project\KFApp\baselibrary\src\main\res\anim\in_scale_x.xml" qualifiers="" type="anim"/><file name="in_translate_top" path="F:\project\KFApp\baselibrary\src\main\res\anim\in_translate_top.xml" qualifiers="" type="anim"/><file name="layout_small_2_big" path="F:\project\KFApp\baselibrary\src\main\res\anim\layout_small_2_big.xml" qualifiers="" type="anim"/><file name="left_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\left_in.xml" qualifiers="" type="anim"/><file name="left_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\left_out.xml" qualifiers="" type="anim"/><file name="list_bottom" path="F:\project\KFApp\baselibrary\src\main\res\anim\list_bottom.xml" qualifiers="" type="anim"/><file name="list_gridanim_bottom" path="F:\project\KFApp\baselibrary\src\main\res\anim\list_gridanim_bottom.xml" qualifiers="" type="anim"/><file name="list_lineanim_bottom" path="F:\project\KFApp\baselibrary\src\main\res\anim\list_lineanim_bottom.xml" qualifiers="" type="anim"/><file name="menu_up" path="F:\project\KFApp\baselibrary\src\main\res\anim\menu_up.xml" qualifiers="" type="anim"/><file name="mi_laucher_alpha" path="F:\project\KFApp\baselibrary\src\main\res\anim\mi_laucher_alpha.xml" qualifiers="" type="anim"/><file name="mi_laucher_del_done" path="F:\project\KFApp\baselibrary\src\main\res\anim\mi_laucher_del_done.xml" qualifiers="" type="anim"/><file name="mi_laucher_del_down" path="F:\project\KFApp\baselibrary\src\main\res\anim\mi_laucher_del_down.xml" qualifiers="" type="anim"/><file name="mi_laucher_del_up" path="F:\project\KFApp\baselibrary\src\main\res\anim\mi_laucher_del_up.xml" qualifiers="" type="anim"/><file name="mi_laucher_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\mi_laucher_out.xml" qualifiers="" type="anim"/><file name="mi_laucher_scale_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\mi_laucher_scale_in.xml" qualifiers="" type="anim"/><file name="mi_laucher_scale_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\mi_laucher_scale_out.xml" qualifiers="" type="anim"/><file name="myanimation_set" path="F:\project\KFApp\baselibrary\src\main\res\anim\myanimation_set.xml" qualifiers="" type="anim"/><file name="myown_design" path="F:\project\KFApp\baselibrary\src\main\res\anim\myown_design.xml" qualifiers="" type="anim"/><file name="my_alpha_action" path="F:\project\KFApp\baselibrary\src\main\res\anim\my_alpha_action.xml" qualifiers="" type="anim"/><file name="my_scale_action" path="F:\project\KFApp\baselibrary\src\main\res\anim\my_scale_action.xml" qualifiers="" type="anim"/><file name="object_animator" path="F:\project\KFApp\baselibrary\src\main\res\anim\object_animator.xml" qualifiers="" type="anim"/><file name="out_translate_top" path="F:\project\KFApp\baselibrary\src\main\res\anim\out_translate_top.xml" qualifiers="" type="anim"/><file name="path2_rotate_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\path2_rotate_in.xml" qualifiers="" type="anim"/><file name="path2_rotate_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\path2_rotate_out.xml" qualifiers="" type="anim"/><file name="pophidden_anim" path="F:\project\KFApp\baselibrary\src\main\res\anim\pophidden_anim.xml" qualifiers="" type="anim"/><file name="popshow_anim" path="F:\project\KFApp\baselibrary\src\main\res\anim\popshow_anim.xml" qualifiers="" type="anim"/><file name="push_left_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\push_left_in.xml" qualifiers="" type="anim"/><file name="push_left_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\push_left_out.xml" qualifiers="" type="anim"/><file name="push_up_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\push_up_in.xml" qualifiers="" type="anim"/><file name="push_up_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\push_up_out.xml" qualifiers="" type="anim"/><file name="rbm_in_from_left" path="F:\project\KFApp\baselibrary\src\main\res\anim\rbm_in_from_left.xml" qualifiers="" type="anim"/><file name="rbm_out_to_left" path="F:\project\KFApp\baselibrary\src\main\res\anim\rbm_out_to_left.xml" qualifiers="" type="anim"/><file name="refreshable_list_rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\refreshable_list_rotate.xml" qualifiers="" type="anim"/><file name="right_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\right_in.xml" qualifiers="" type="anim"/><file name="right_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\right_out.xml" qualifiers="" type="anim"/><file name="rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\rotate.xml" qualifiers="" type="anim"/><file name="rotate_down" path="F:\project\KFApp\baselibrary\src\main\res\anim\rotate_down.xml" qualifiers="" type="anim"/><file name="rotate_up" path="F:\project\KFApp\baselibrary\src\main\res\anim\rotate_up.xml" qualifiers="" type="anim"/><file name="scale" path="F:\project\KFApp\baselibrary\src\main\res\anim\scale.xml" qualifiers="" type="anim"/><file name="scale_rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\scale_rotate.xml" qualifiers="" type="anim"/><file name="scale_translate" path="F:\project\KFApp\baselibrary\src\main\res\anim\scale_translate.xml" qualifiers="" type="anim"/><file name="scale_translate_rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\scale_translate_rotate.xml" qualifiers="" type="anim"/><file name="shrink_from_bottom" path="F:\project\KFApp\baselibrary\src\main\res\anim\shrink_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_down_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\slide_down_in.xml" qualifiers="" type="anim"/><file name="slide_down_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\slide_down_out.xml" qualifiers="" type="anim"/><file name="slide_left" path="F:\project\KFApp\baselibrary\src\main\res\anim\slide_left.xml" qualifiers="" type="anim"/><file name="slide_right" path="F:\project\KFApp\baselibrary\src\main\res\anim\slide_right.xml" qualifiers="" type="anim"/><file name="slide_up_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\slide_up_in.xml" qualifiers="" type="anim"/><file name="small_2_big" path="F:\project\KFApp\baselibrary\src\main\res\anim\small_2_big.xml" qualifiers="" type="anim"/><file name="sweetalert_error_frame_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetalert_error_frame_in.xml" qualifiers="" type="anim"/><file name="sweetalert_error_x_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetalert_error_x_in.xml" qualifiers="" type="anim"/><file name="sweetalert_modal_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetalert_modal_in.xml" qualifiers="" type="anim"/><file name="sweetalert_modal_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetalert_modal_out.xml" qualifiers="" type="anim"/><file name="sweetalert_success_bow_roate" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetalert_success_bow_roate.xml" qualifiers="" type="anim"/><file name="sweetalert_success_mask_layout" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetalert_success_mask_layout.xml" qualifiers="" type="anim"/><file name="sweetsheet_item_duang_show" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetsheet_item_duang_show.xml" qualifiers="" type="anim"/><file name="sweetsheet_item_duang_show2" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetsheet_item_duang_show2.xml" qualifiers="" type="anim"/><file name="sweetsheet_rv_layout_animation" path="F:\project\KFApp\baselibrary\src\main\res\anim\sweetsheet_rv_layout_animation.xml" qualifiers="" type="anim"/><file name="translate" path="F:\project\KFApp\baselibrary\src\main\res\anim\translate.xml" qualifiers="" type="anim"/><file name="translate_rotate" path="F:\project\KFApp\baselibrary\src\main\res\anim\translate_rotate.xml" qualifiers="" type="anim"/><file name="twinkle" path="F:\project\KFApp\baselibrary\src\main\res\anim\twinkle.xml" qualifiers="" type="anim"/><file name="umeng_fb_slide_in_from_left" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_fb_slide_in_from_left.xml" qualifiers="" type="anim"/><file name="umeng_fb_slide_in_from_right" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_fb_slide_in_from_right.xml" qualifiers="" type="anim"/><file name="umeng_fb_slide_out_from_left" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_fb_slide_out_from_left.xml" qualifiers="" type="anim"/><file name="umeng_fb_slide_out_from_right" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_fb_slide_out_from_right.xml" qualifiers="" type="anim"/><file name="umeng_socialize_fade_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_socialize_fade_in.xml" qualifiers="" type="anim"/><file name="umeng_socialize_fade_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_socialize_fade_out.xml" qualifiers="" type="anim"/><file name="umeng_socialize_shareboard_animation_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_socialize_shareboard_animation_in.xml" qualifiers="" type="anim"/><file name="umeng_socialize_shareboard_animation_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_socialize_shareboard_animation_out.xml" qualifiers="" type="anim"/><file name="umeng_socialize_slide_in_from_bottom" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_socialize_slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="umeng_socialize_slide_out_from_bottom" path="F:\project\KFApp\baselibrary\src\main\res\anim\umeng_socialize_slide_out_from_bottom.xml" qualifiers="" type="anim"/><file name="unzoom_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\unzoom_in.xml" qualifiers="" type="anim"/><file name="unzoom_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\unzoom_out.xml" qualifiers="" type="anim"/><file name="wave_scale" path="F:\project\KFApp\baselibrary\src\main\res\anim\wave_scale.xml" qualifiers="" type="anim"/><file name="welcome_fade_in" path="F:\project\KFApp\baselibrary\src\main\res\anim\welcome_fade_in.xml" qualifiers="" type="anim"/><file name="welcome_fade_in_scale" path="F:\project\KFApp\baselibrary\src\main\res\anim\welcome_fade_in_scale.xml" qualifiers="" type="anim"/><file name="welcome_fade_out" path="F:\project\KFApp\baselibrary\src\main\res\anim\welcome_fade_out.xml" qualifiers="" type="anim"/><file name="welcome_keep" path="F:\project\KFApp\baselibrary\src\main\res\anim\welcome_keep.xml" qualifiers="" type="anim"/><file name="zoom_enter" path="F:\project\KFApp\baselibrary\src\main\res\anim\zoom_enter.xml" qualifiers="" type="anim"/><file name="zoom_exit" path="F:\project\KFApp\baselibrary\src\main\res\anim\zoom_exit.xml" qualifiers="" type="anim"/><file name="calendar_text_selector" path="F:\project\KFApp\baselibrary\src\main\res\color\calendar_text_selector.xml" qualifiers="" type="color"/><file name="animation_list_refresh_jd" path="F:\project\KFApp\baselibrary\src\main\res\drawable\animation_list_refresh_jd.xml" qualifiers="" type="drawable"/><file name="calendar_bg_selector" path="F:\project\KFApp\baselibrary\src\main\res\drawable\calendar_bg_selector.xml" qualifiers="" type="drawable"/><file name="custom_number_pick_add" path="F:\project\KFApp\baselibrary\src\main\res\drawable\custom_number_pick_add.xml" qualifiers="" type="drawable"/><file name="custom_number_pick_reduce" path="F:\project\KFApp\baselibrary\src\main\res\drawable\custom_number_pick_reduce.xml" qualifiers="" type="drawable"/><file name="nice_spinner_arrow" path="F:\project\KFApp\baselibrary\src\main\res\drawable\nice_spinner_arrow.xml" qualifiers="" type="drawable"/><file name="nice_spinner_drawable" path="F:\project\KFApp\baselibrary\src\main\res\drawable\nice_spinner_drawable.xml" qualifiers="" type="drawable"/><file name="nice_spinner_selector" path="F:\project\KFApp\baselibrary\src\main\res\drawable\nice_spinner_selector.xml" qualifiers="" type="drawable"/><file name="shadow" path="F:\project\KFApp\baselibrary\src\main\res\drawable\shadow.xml" qualifiers="" type="drawable"/><file name="wheel_bg" path="F:\project\KFApp\baselibrary\src\main\res\drawable\wheel_bg.xml" qualifiers="" type="drawable"/><file name="wheel_scroll_picker_bar" path="F:\project\KFApp\baselibrary\src\main\res\drawable\wheel_scroll_picker_bar.png" qualifiers="" type="drawable"/><file name="bg_blue_top_c" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\bg_blue_top_c.xml" qualifiers="hdpi-v4" type="drawable"/><file name="bg_white_bottom_c" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\bg_white_bottom_c.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_white_bottom_left" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\btn_white_bottom_left.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_white_bottom_right" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\btn_white_bottom_right.xml" qualifiers="hdpi-v4" type="drawable"/><file name="fire" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\fire.png" qualifiers="hdpi-v4" type="drawable"/><file name="fire_smoke" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\fire_smoke.xml" qualifiers="hdpi-v4" type="drawable"/><file name="fragment" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\fragment.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_error" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_error.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_favorite_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_favorite_black_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_favorite_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_favorite_border_black_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_favorite_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_favorite_border_white_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_favorite_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_favorite_white_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_navigation_check" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_navigation_check.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_star_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_star_black_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_star_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_star_border_black_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_star_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_star_border_white_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_star_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\ic_star_white_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="selection_divider" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\selection_divider.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="smoke" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\smoke.png" qualifiers="hdpi-v4" type="drawable"/><file name="sparkle" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\sparkle.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0000" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0000.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0001" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0001.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0002" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0002.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0003" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0003.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0004" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0004.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0005" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0005.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0006" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0006.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0007" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0007.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0008" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0008.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0009" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0009.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0010" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0010.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0011" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0011.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0012" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0012.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0013" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0013.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0014" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0014.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0015" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0015.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0016" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0016.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0017" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0017.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0018" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0018.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0019" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0019.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0020" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0020.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0021" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0021.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0022" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0022.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0023" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0023.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0024" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0024.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0025" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0025.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0026" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0026.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0027" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0027.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0028" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0028.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0029" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0029.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0030" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0030.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0031" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0031.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0032" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0032.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0033" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0033.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0034" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0034.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0035" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0035.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0036" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0036.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0037" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0037.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0038" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0038.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0039" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0039.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0040" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0040.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0041" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0041.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0042" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0042.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0043" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0043.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0044" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0044.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0045" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0045.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0046" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0046.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0047" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0047.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0048" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0048.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0049" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0049.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0050" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0050.png" qualifiers="hdpi-v4" type="drawable"/><file name="wenzi0051" path="F:\project\KFApp\baselibrary\src\main\res\drawable-hdpi\wenzi0051.png" qualifiers="hdpi-v4" type="drawable"/><file name="biz_video_expand" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\biz_video_expand.png" qualifiers="mdpi-v4" type="drawable"/><file name="biz_video_progressbar" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\biz_video_progressbar.xml" qualifiers="mdpi-v4" type="drawable"/><file name="click_video_pause_selector" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\click_video_pause_selector.xml" qualifiers="mdpi-v4" type="drawable"/><file name="click_video_play_selector" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\click_video_play_selector.xml" qualifiers="mdpi-v4" type="drawable"/><file name="enlarge_video" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\enlarge_video.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_back_white" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_back_white.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_error" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_error.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_favorite_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_favorite_black_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_favorite_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_favorite_border_black_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_favorite_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_favorite_border_white_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_favorite_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_favorite_white_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_navigation_check" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_navigation_check.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_star_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_star_black_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_star_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_star_border_black_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_star_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_star_border_white_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_star_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\ic_star_white_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="new_pause_video" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\new_pause_video.png" qualifiers="mdpi-v4" type="drawable"/><file name="new_pause_video_press" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\new_pause_video_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="new_play_video" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\new_play_video.png" qualifiers="mdpi-v4" type="drawable"/><file name="new_play_video_press" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\new_play_video_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="picker_action_done" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_action_done.png" qualifiers="mdpi-v4" type="drawable"/><file name="picker_btn_bg" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_btn_bg.xml" qualifiers="mdpi-v4" type="drawable"/><file name="picker_camera" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_camera.png" qualifiers="mdpi-v4" type="drawable"/><file name="picker_clear" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_clear.png" qualifiers="mdpi-v4" type="drawable"/><file name="picker_gallery_photo_foreground" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_gallery_photo_foreground.xml" qualifiers="mdpi-v4" type="drawable"/><file name="picker_gallery_photo_selected" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_gallery_photo_selected.xml" qualifiers="mdpi-v4" type="drawable"/><file name="picker_holder_gallery" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_holder_gallery.png" qualifiers="mdpi-v4" type="drawable"/><file name="picker_image" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_image.png" qualifiers="mdpi-v4" type="drawable"/><file name="picker_state_disabled" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_state_disabled.xml" qualifiers="mdpi-v4" type="drawable"/><file name="picker_state_highlight" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_state_highlight.xml" qualifiers="mdpi-v4" type="drawable"/><file name="picker_state_normal" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\picker_state_normal.xml" qualifiers="mdpi-v4" type="drawable"/><file name="seek_progress" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\seek_progress.xml" qualifiers="mdpi-v4" type="drawable"/><file name="seek_thumb" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\seek_thumb.xml" qualifiers="mdpi-v4" type="drawable"/><file name="seek_thumb_normal" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\seek_thumb_normal.xml" qualifiers="mdpi-v4" type="drawable"/><file name="seek_thumb_press" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\seek_thumb_press.xml" qualifiers="mdpi-v4" type="drawable"/><file name="selection_divider" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\selection_divider.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="shrink_video" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\shrink_video.png" qualifiers="mdpi-v4" type="drawable"/><file name="title_gradient_bg" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\title_gradient_bg.xml" qualifiers="mdpi-v4" type="drawable"/><file name="video_loading" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\video_loading.xml" qualifiers="mdpi-v4" type="drawable"/><file name="video_loading_icon" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\video_loading_icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="video_progress" path="F:\project\KFApp\baselibrary\src\main\res\drawable-mdpi\video_progress.xml" qualifiers="mdpi-v4" type="drawable"/><file name="ic_error" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_error.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_favorite_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_favorite_black_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_favorite_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_favorite_border_black_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_favorite_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_favorite_border_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_favorite_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_favorite_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_navigation_check" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_navigation_check.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_star_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_star_black_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_star_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_star_border_black_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_star_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_star_border_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_star_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\ic_star_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="menu" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\menu.png" qualifiers="xhdpi-v4" type="drawable"/><file name="selection_divider" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xhdpi\selection_divider.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="bg_oval_blue" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\bg_oval_blue.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="bg_oval_gray" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\bg_oval_gray.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="bg_selected" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\bg_selected.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="bg_unselected" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\bg_unselected.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="heart_off" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\heart_off.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="heart_on" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\heart_on.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_error" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_error.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_favorite_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_favorite_black_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_favorite_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_favorite_border_black_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_favorite_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_favorite_border_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_favorite_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_favorite_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_navigation_check" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_navigation_check.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_star_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_star_black_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_star_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_star_border_black_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_star_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_star_border_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_star_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\ic_star_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="nice_spinner_drop_down_shadow" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\nice_spinner_drop_down_shadow.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="nice_spinner_ic_arrow_drop_down_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\nice_spinner_ic_arrow_drop_down_black_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="nice_spinner_shadow_background" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\nice_spinner_shadow_background.9.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sliderlayout_indicator_corner_bg" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sliderlayout_indicator_corner_bg.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="star_off" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\star_off.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="star_on" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\star_on.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_blue_button_background" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_blue_button_background.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_dialog_background" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_dialog_background.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_error_center_x" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_error_center_x.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_error_circle" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_error_circle.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_gray_button_background" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_gray_button_background.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_red_button_background" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_red_button_background.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_success_bow" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_success_bow.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_success_circle" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_success_circle.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_warning_circle" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_warning_circle.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetalert_warning_sigh" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetalert_warning_sigh.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetsheet_ic_slider_line" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetsheet_ic_slider_line.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetsheet_indicator" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetsheet_indicator.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetsheet_indicator_normal" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetsheet_indicator_normal.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetsheet_indicator_select" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetsheet_indicator_select.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="sweetsheet_lv_white_to_gray" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\sweetsheet_lv_white_to_gray.xml" qualifiers="xxhdpi-v4" type="drawable"/><file name="thumb_off" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\thumb_off.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="thumb_on" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxhdpi\thumb_on.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="check_bg" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\check_bg.xml" qualifiers="xxxhdpi-v4" type="drawable"/><file name="dmax_spots_spot" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\dmax_spots_spot.xml" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_favorite_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\ic_favorite_black_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_favorite_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\ic_favorite_border_black_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_favorite_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\ic_favorite_border_white_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_favorite_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\ic_favorite_white_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_star_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\ic_star_black_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_star_border_black_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\ic_star_border_black_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_star_border_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\ic_star_border_white_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_star_white_24dp" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\ic_star_white_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="uncheck_bg" path="F:\project\KFApp\baselibrary\src\main\res\drawable-xxxhdpi\uncheck_bg.xml" qualifiers="xxxhdpi-v4" type="drawable"/><file name="activity_empty" path="F:\project\KFApp\baselibrary\src\main\res\layout\activity_empty.xml" qualifiers="" type="layout"/><file name="activity_fullscreen" path="F:\project\KFApp\baselibrary\src\main\res\layout\activity_fullscreen.xml" qualifiers="" type="layout"/><file name="contextmenu_fragment_menu" path="F:\project\KFApp\baselibrary\src\main\res\layout\contextmenu_fragment_menu.xml" qualifiers="" type="layout"/><file name="dialog_radio" path="F:\project\KFApp\baselibrary\src\main\res\layout\dialog_radio.xml" qualifiers="" type="layout"/><file name="dmax_spots_dialog" path="F:\project\KFApp\baselibrary\src\main\res\layout\dmax_spots_dialog.xml" qualifiers="" type="layout"/><file name="foldable_layout" path="F:\project\KFApp\baselibrary\src\main\res\layout\foldable_layout.xml" qualifiers="" type="layout"/><file name="item_constellation_layout" path="F:\project\KFApp\baselibrary\src\main\res\layout\item_constellation_layout.xml" qualifiers="" type="layout"/><file name="item_default_drop_down" path="F:\project\KFApp\baselibrary\src\main\res\layout\item_default_drop_down.xml" qualifiers="" type="layout"/><file name="item_list_drop_down" path="F:\project\KFApp\baselibrary\src\main\res\layout\item_list_drop_down.xml" qualifiers="" type="layout"/><file name="item_spinner" path="F:\project\KFApp\baselibrary\src\main\res\layout\item_spinner.xml" qualifiers="" type="layout"/><file name="item_sweetsheet_horizon_rv" path="F:\project\KFApp\baselibrary\src\main\res\layout\item_sweetsheet_horizon_rv.xml" qualifiers="" type="layout"/><file name="item_sweetsheet_vertical_rv" path="F:\project\KFApp\baselibrary\src\main\res\layout\item_sweetsheet_vertical_rv.xml" qualifiers="" type="layout"/><file name="layout_classic_footer" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_classic_footer.xml" qualifiers="" type="layout"/><file name="layout_custem_swipe" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_custem_swipe.xml" qualifiers="" type="layout"/><file name="layout_gif_header" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_gif_header.xml" qualifiers="" type="layout"/><file name="layout_google_footer" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_google_footer.xml" qualifiers="" type="layout"/><file name="layout_google_header" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_google_header.xml" qualifiers="" type="layout"/><file name="layout_google_hook_footer" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_google_hook_footer.xml" qualifiers="" type="layout"/><file name="layout_google_hook_header" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_google_hook_header.xml" qualifiers="" type="layout"/><file name="layout_jd_header" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_jd_header.xml" qualifiers="" type="layout"/><file name="layout_title" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_title.xml" qualifiers="" type="layout"/><file name="layout_twitter_header" path="F:\project\KFApp\baselibrary\src\main\res\layout\layout_twitter_header.xml" qualifiers="" type="layout"/><file name="likeview" path="F:\project\KFApp\baselibrary\src\main\res\layout\likeview.xml" qualifiers="" type="layout"/><file name="picker_activity_main_pp" path="F:\project\KFApp\baselibrary\src\main\res\layout\picker_activity_main_pp.xml" qualifiers="" type="layout"/><file name="picker_fragment_camera_cwac" path="F:\project\KFApp\baselibrary\src\main\res\layout\picker_fragment_camera_cwac.xml" qualifiers="" type="layout"/><file name="picker_fragment_gallery" path="F:\project\KFApp\baselibrary\src\main\res\layout\picker_fragment_gallery.xml" qualifiers="" type="layout"/><file name="picker_grid_item_gallery_thumbnail" path="F:\project\KFApp\baselibrary\src\main\res\layout\picker_grid_item_gallery_thumbnail.xml" qualifiers="" type="layout"/><file name="picker_list_item_selected_thumbnail" path="F:\project\KFApp\baselibrary\src\main\res\layout\picker_list_item_selected_thumbnail.xml" qualifiers="" type="layout"/><file name="picker_tab_view_text" path="F:\project\KFApp\baselibrary\src\main\res\layout\picker_tab_view_text.xml" qualifiers="" type="layout"/><file name="sample_footer" path="F:\project\KFApp\baselibrary\src\main\res\layout\sample_footer.xml" qualifiers="" type="layout"/><file name="sample_header" path="F:\project\KFApp\baselibrary\src\main\res\layout\sample_header.xml" qualifiers="" type="layout"/><file name="sdtp_custom_tab" path="F:\project\KFApp\baselibrary\src\main\res\layout\sdtp_custom_tab.xml" qualifiers="" type="layout"/><file name="sdtp_fragment_date" path="F:\project\KFApp\baselibrary\src\main\res\layout\sdtp_fragment_date.xml" qualifiers="" type="layout"/><file name="sdtp_fragment_time" path="F:\project\KFApp\baselibrary\src\main\res\layout\sdtp_fragment_time.xml" qualifiers="" type="layout"/><file name="sliderlayout_indicator_layout" path="F:\project\KFApp\baselibrary\src\main\res\layout\sliderlayout_indicator_layout.xml" qualifiers="" type="layout"/><file name="sliderlayout_render_type_default" path="F:\project\KFApp\baselibrary\src\main\res\layout\sliderlayout_render_type_default.xml" qualifiers="" type="layout"/><file name="sliderlayout_render_type_text" path="F:\project\KFApp\baselibrary\src\main\res\layout\sliderlayout_render_type_text.xml" qualifiers="" type="layout"/><file name="slider_layout" path="F:\project\KFApp\baselibrary\src\main\res\layout\slider_layout.xml" qualifiers="" type="layout"/><file name="slide_date_time_picker" path="F:\project\KFApp\baselibrary\src\main\res\layout\slide_date_time_picker.xml" qualifiers="" type="layout"/><file name="sweetalert_dialog" path="F:\project\KFApp\baselibrary\src\main\res\layout\sweetalert_dialog.xml" qualifiers="" type="layout"/><file name="sweetsheet_layout_custom_sweet" path="F:\project\KFApp\baselibrary\src\main\res\layout\sweetsheet_layout_custom_sweet.xml" qualifiers="" type="layout"/><file name="sweetsheet_layout_grid_menu" path="F:\project\KFApp\baselibrary\src\main\res\layout\sweetsheet_layout_grid_menu.xml" qualifiers="" type="layout"/><file name="sweetsheet_layout_rv_sweet" path="F:\project\KFApp\baselibrary\src\main\res\layout\sweetsheet_layout_rv_sweet.xml" qualifiers="" type="layout"/><file name="sweetsheet_layout_vp_sweet" path="F:\project\KFApp\baselibrary\src\main\res\layout\sweetsheet_layout_vp_sweet.xml" qualifiers="" type="layout"/><file name="timesquare_month" path="F:\project\KFApp\baselibrary\src\main\res\layout\timesquare_month.xml" qualifiers="" type="layout"/><file name="timesquare_week" path="F:\project\KFApp\baselibrary\src\main\res\layout\timesquare_week.xml" qualifiers="" type="layout"/><file name="toolbar" path="F:\project\KFApp\baselibrary\src\main\res\layout\toolbar.xml" qualifiers="" type="layout"/><file name="video_control_view" path="F:\project\KFApp\baselibrary\src\main\res\layout\video_control_view.xml" qualifiers="" type="layout"/><file name="view_expandablelayout" path="F:\project\KFApp\baselibrary\src\main\res\layout\view_expandablelayout.xml" qualifiers="" type="layout"/><file name="view_select_date" path="F:\project\KFApp\baselibrary\src\main\res\layout\view_select_date.xml" qualifiers="" type="layout"/><file name="widget_appmsg" path="F:\project\KFApp\baselibrary\src\main\res\layout\widget_appmsg.xml" qualifiers="" type="layout"/><file name="widget_customnumpick" path="F:\project\KFApp\baselibrary\src\main\res\layout\widget_customnumpick.xml" qualifiers="" type="layout"/><file name="widget_loading_dialog" path="F:\project\KFApp\baselibrary\src\main\res\layout\widget_loading_dialog.xml" qualifiers="" type="layout"/><file name="widget_pulltonext_head_foot" path="F:\project\KFApp\baselibrary\src\main\res\layout\widget_pulltonext_head_foot.xml" qualifiers="" type="layout"/><file name="menu_confirm" path="F:\project\KFApp\baselibrary\src\main\res\menu\menu_confirm.xml" qualifiers="" type="menu"/><file name="jd_people_0" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-hdpi\jd_people_0.png" qualifiers="hdpi-v4" type="mipmap"/><file name="jd_people_1" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-hdpi\jd_people_1.png" qualifiers="hdpi-v4" type="mipmap"/><file name="jd_people_2" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-hdpi\jd_people_2.png" qualifiers="hdpi-v4" type="mipmap"/><file name="jd_people_3" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-hdpi\jd_people_3.png" qualifiers="hdpi-v4" type="mipmap"/><file name="jd_speed" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-hdpi\jd_speed.png" qualifiers="hdpi-v4" type="mipmap"/><file name="drop_down_checked" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xhdpi\drop_down_checked.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="drop_down_selected_icon" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xhdpi\drop_down_selected_icon.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="drop_down_unselected_icon" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xhdpi\drop_down_unselected_icon.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="qq_refresh_success" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xhdpi\qq_refresh_success.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="loading" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xxhdpi\loading.gif" qualifiers="xxhdpi-v4" type="mipmap"/><file name="nomore" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xxhdpi\nomore.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="twitter_pull_arrow" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xxhdpi\twitter_pull_arrow.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="yalantis_phoenix_buildings" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xxhdpi\yalantis_phoenix_buildings.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="yalantis_phoenix_sky" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xxhdpi\yalantis_phoenix_sky.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="yalantis_phoenix_sun" path="F:\project\KFApp\baselibrary\src\main\res\mipmap-xxhdpi\yalantis_phoenix_sun.png" qualifiers="xxhdpi-v4" type="mipmap"/><file path="F:\project\KFApp\baselibrary\src\main\res\values\array.xml" qualifiers=""><array name="waveSideBarLetters">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\u0023</item>
+        
+    </array></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="FrameLayoutCompat2">
+        
+        <attr format="reference|color" name="FC_foreground"/>
+        
+        <attr name="FC_foregroundGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+        </attr>
+        
+        <attr format="boolean" name="FC_foregroundInsidePadding"/>
+        
+        <attr format="boolean" name="FC_measureAllChildren"/>
+        
+        <attr format="color" name="FC_foregroundTint"/>
+        
+        <attr name="FC_foregroundTintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr>
+    </declare-styleable><declare-styleable name="RichText">
+        <attr format="reference" name="RT_placeHolder"/>
+        <attr format="reference" name="RT_errorImage"/>
+        <attr format="dimension" name="RT_default_width"/>
+        <attr format="dimension" name="RT_default_height"/>
+    </declare-styleable><declare-styleable name="PullToNextLayout">
+        <attr format="color" name="underLayoutColor"/>
+        <attr format="integer" name="topType"/>
+    </declare-styleable><declare-styleable name="NumberProgressBar">
+        
+        <attr format="integer" name="NPB_current"/>
+        <attr format="integer" name="NPB_max"/>
+        
+        <attr format="color" name="NPB_unreached_color"/>
+        <attr format="color" name="NPB_reached_color"/>
+        
+        <attr format="dimension" name="NPB_reached_bar_height"/>
+        <attr format="dimension" name="NPB_unreached_bar_height"/>
+        
+        <attr format="dimension" name="NPB_text_size"/>
+        <attr format="color" name="NPB_text_color"/>
+        <attr format="dimension" name="NPB_text_offset"/>
+        <attr format="enum" name="NPB_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="MaterialFavoriteButton">
+        
+        <attr format="boolean" name="mfb_animate_favorite"/>
+        
+        <attr format="boolean" name="mfb_animate_unfavorite"/>
+        
+        <attr format="integer" name="mfb_padding"/>
+        
+        <attr format="integer" name="mfb_favorite_image"/>
+        
+        <attr format="integer" name="mfb_not_favorite_image"/>
+        
+        <attr format="integer" name="mfb_rotation_duration"/>
+        
+        <attr format="integer" name="mfb_rotation_angle"/>
+        
+        <attr format="integer" name="mfb_bounce_duration"/>
+        
+        <attr format="enum" name="mfb_color">
+            <enum name="black" value="0"/>
+            <enum name="white" value="1"/>
+        </attr>
+        
+        <attr format="enum" name="mfb_type">
+            <enum name="star" value="0"/>
+            <enum name="heart" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GoogleCircleProgressView">
+        <attr format="dimension" name="gcp_inner_radius"/>
+        <attr format="color" name="gcp_background_color"/>
+        <attr format="color" name="gcp_progress_color"/>
+        <attr format="dimension" name="gcp_progress_stoke_width"/>
+        <attr format="boolean" name="gcp_show_arrow"/>
+        <attr format="boolean" name="gcp_enable_circle_background"/>
+        <attr format="dimension" name="gcp_arrow_width"/>
+        <attr format="dimension" name="gcp_arrow_height"/>
+        <attr format="integer" name="gcp_progress"/>
+        <attr format="integer" name="gcp_max"/>
+        <attr format="dimension" name="gcp_progress_text_size"/>
+        <attr format="color" name="gcp_progress_text_color"/>
+        
+        <attr format="enum" name="gcp_progress_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoolSwitch">
+        <attr format="reference" name="CS_enabledView"/>
+        <attr format="reference" name="CS_disabledView"/>
+    </declare-styleable><declare-styleable name="BGABadgeView">
+        
+        <attr format="reference|color" name="badge_bgColor"/>
+        
+        <attr format="reference|color" name="badge_textColor"/>
+        
+        <attr format="reference|dimension" name="badge_textSize"/>
+        
+        <attr format="reference|dimension" name="badge_verticalMargin"/>
+        
+        <attr format="reference|dimension" name="badge_horizontalMargin"/>
+        
+        <attr format="reference|dimension" name="badge_padding"/>
+        
+        <attr format="enum" name="badge_gravity">
+            <enum name="rightTop" value="0"/>
+            <enum name="rightCenter" value="1"/>
+            <enum name="rightBottom" value="2"/>
+        </attr>
+        
+        <attr format="boolean" name="badge_dragable"/>
+        
+        <attr format="boolean" name="badge_isResumeTravel"/>
+        
+        <attr format="reference|dimension" name="badge_borderWidth"/>
+        
+        <attr format="reference|color" name="badge_borderColor"/>
+        
+        <attr format="reference|dimension" name="badge_dragExtra"/>
+    </declare-styleable><declare-styleable name="RevealTextView">
+        <attr format="integer" name="rtv_duration"/>
+        <attr name="android:text"/>
+    </declare-styleable><declare-styleable name="HTextView">
+        <attr format="boolean" name="HTV_isAnimate"/>
+        <attr format="enum" name="HTV_animateType">
+            <enum name="scale" value="0"/>
+            <enum name="evaporate" value="1"/>
+            <enum name="fall" value="2"/>
+            <enum name="sparkle" value="3"/>
+            <enum name="anvil" value="4"/>
+            <enum name="line" value="5"/>
+            <enum name="pixelate" value="6"/>
+            <enum name="typer" value="7"/>
+            <enum name="rainbow" value="8"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ExpandableLayout">
+        <attr format="reference" name="EL_headerLayout"/>
+        <attr format="reference" name="EL_footerLayout"/>
+        <attr format="reference" name="EL_contentLayout"/>
+        <attr format="integer" name="EL_duration"/>
+    </declare-styleable><declare-styleable name="LikeButton">
+        
+        <attr format="string" name="LB_icon_type"/>
+        <attr format="dimension|reference" name="LB_icon_size"/>
+        <attr format="reference" name="LB_like_drawable"/>
+        <attr format="reference" name="LB_unlike_drawable"/>
+        
+        <attr format="color|reference" name="LB_dots_primary_color"/>
+        
+        <attr format="color|reference" name="LB_dots_secondary_color"/>
+        
+        <attr format="color|reference" name="LB_circle_start_color"/>
+        
+        <attr format="color|reference" name="LB_circle_end_color"/>
+        <attr format="boolean" name="LB_liked"/>
+    </declare-styleable><declare-styleable name="AnimateCheckBox">
+        
+        <attr format="color" name="ACB_unCheckColor"/>
+        
+        <attr format="color" name="ACB_checkedColor"/>
+        
+        <attr format="color" name="ACB_lineColor"/>
+        
+        <attr format="dimension" name="ACB_lineWidth"/>
+        
+        <attr format="integer" name="ACB_animDuration"/>
+    </declare-styleable><declare-styleable name="PullToZoomView">
+        <attr format="reference" name="PTZV_headerView"/>
+        <attr format="reference" name="PTZV_contentView"/>
+        <attr format="reference" name="PTZV_zoomView"/>
+        <attr format="boolean" name="PTZV_isHeaderParallax"/>
+    </declare-styleable><declare-styleable name="IconText">
+        <attr name="android:text"/>
+        <attr format="dimension" name="IT_text_size"/>
+        <attr format="color" name="IT_text_selected_color"/>
+        <attr format="color" name="IT_text_unselected_color"/>
+        <attr format="boolean" name="IT_selected"/>
+        <attr format="color" name="IT_selected_color"/>
+        <attr format="color" name="IT_unselected_color"/>
+        <attr format="dimension" name="IT_padding"/>
+        <attr format="reference" name="IT_selected_icon"/>
+        <attr format="reference" name="IT_unselected_icon"/>
+        
+    </declare-styleable><declare-styleable name="AutofitTextView">
+        
+        <attr format="dimension" name="minTextSize"/>
+        
+        <attr format="float" name="precision"/>
+        
+        <attr format="boolean" name="sizeToFit"/>
+    </declare-styleable><declare-styleable name="CircleIndicator">
+        <attr format="dimension" name="ci_width"/>
+        <attr format="dimension" name="ci_height"/>
+        <attr format="dimension" name="ci_margin"/>
+        <attr format="enum" name="ci_orientation">
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr>
+
+        <attr name="ci_gravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+    </declare-styleable><declare-styleable name="NiceSpinner">
+        <attr format="color" name="NS_arrowTint"/>
+        <attr format="boolean" name="NS_hideArrow"/>
+    </declare-styleable><attr format="boolean" name="abbreviated"/><declare-styleable name="ScrollerNumberPicker">
+        <attr format="color" name="SNP_normalTextColor"/>
+        <attr format="dimension" name="SNP_normalTextSize"/>
+        <attr format="color" name="SNP_selectedTextColor"/>
+        <attr format="dimension" name="SNP_selectedTextSize"/>
+        <attr format="dimension" name="SNP_unitHigh"/>
+        <attr format="integer" name="SNP_itemNumber"/>
+        <attr format="color" name="SNP_lineColor"/>
+        <attr format="dimension" name="SNP_maskHigh"/>
+        <attr format="boolean" name="SNP_noEmpty"/>
+        <attr format="boolean" name="SNP_isEnable"/>
+    </declare-styleable><declare-styleable name="CircularProgress">
+        <attr format="dimension" name="CP_BorderWidth"/>
+        
+    </declare-styleable><declare-styleable name="MarqueeLayout">
+        <attr format="integer" name="switchTime"/>
+        <attr format="integer" name="scrollTime"/>
+        <attr format="enum" name="orientation">
+            <enum name="up" value="1"/>
+            <enum name="down" value="2"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="4"/>
+        </attr>
+        <attr format="boolean" name="enableAlphaAnim"/>
+        <attr format="boolean" name="enableScaleAnim"/>
+    </declare-styleable><declare-styleable name="CounterView">
+        <attr format="string" name="prefix"/>
+        <attr format="string" name="suffix"/>
+        <attr format="float" name="timeInterval"/>
+        <attr format="float" name="incrementValue"/>
+        <attr format="float" name="startValue"/>
+        <attr format="float" name="endValue"/>
+        <attr format="boolean" name="formatText"/>
+        <attr format="boolean" name="autoStart"/>
+        <attr format="enum" name="type">
+            <enum name="integer" value="0"/>
+            <enum name="decimal" value="1"/>
+            <enum name="both" value="2"/>
+        </attr>
+        <attr name="android:text"/>
+    </declare-styleable><declare-styleable name="ExpandablePanel">
+        <attr format="reference" name="EP_handle"/>
+        <attr format="reference" name="EP_content"/>
+        <attr format="reference" name="EP_viewgroup"/>
+        <attr format="boolean" name="EP_isviewgroup"/>
+        <attr format="dimension" name="EP_collapsedHeight"/>
+        <attr format="integer" name="EP_animationDuration"/>
+    </declare-styleable><declare-styleable name="RippleView">
+        <attr format="integer" name="RV_alpha"/>
+        
+        <attr format="integer" name="RV_framerate"/>
+        
+        <attr format="integer" name="RV_rippleDuration"/>
+        
+        <attr format="integer" name="RV_zoomDuration"/>
+        <attr format="color" name="RV_color"/>
+        
+        <attr format="boolean" name="RV_centered"/>
+        
+        <attr format="enum" name="RV_type"> 
+            <enum name="simpleRipple" value="0"/>
+            <enum name="doubleRipple" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr>
+        <attr format="dimension" name="RV_ripplePadding"/>
+        <attr format="boolean" name="RV_zoom"/>
+        <attr format="float" name="RV_zoomScale"/>
+    </declare-styleable><declare-styleable name="RoundedImageView">
+        <attr format="dimension" name="RIV_corner_radius"/>
+        
+        <attr format="dimension" name="RIV_border_width"/>
+        
+        <attr format="color" name="RIV_border_color"/>
+        
+        <attr format="boolean" name="RIV_mutate_background"/>
+        
+        <attr format="boolean" name="RIV_oval"/>
+        
+        <attr name="android:scaleType"/>
+    </declare-styleable><declare-styleable name="RefreshProgress">
+        <attr format="boolean" name="RP_seekAble"/>
+    </declare-styleable><declare-styleable name="Rotate3dAnimation">
+        <attr format="enum" name="SAD_rollType">
+            <enum name="x" value="0"/>
+            <enum name="y" value="1"/>
+            <enum name="z" value="2"/>
+        </attr>
+        <attr format="float" name="SAD_fromDeg"/>
+        <attr format="float" name="SAD_toDeg"/>
+        <attr format="fraction" name="SAD_pivotX"/>
+        <attr format="fraction" name="SAD_pivotY"/>
+    </declare-styleable><declare-styleable name="CoolMenuFrameLayout">
+        <attr format="enum" name="CFL_num">
+            <enum name="one" value="1"/>
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+        </attr>
+        <attr format="dimension" name="CFL_titleSize"/>
+        <attr format="color" name="CFL_titleColor"/>
+        <attr format="reference" name="CFL_titleIcon"/>
+    </declare-styleable><declare-styleable name="WaveLoadingView">
+        <attr format="dimension" name="wlv_borderWidth"/>
+        <attr format="color" name="wlv_borderColor"/>
+        <attr format="integer" name="wlv_progressValue"/>
+        <attr format="enum" name="wlv_shapeType">
+            <enum name="triangle" value="0"/>
+            <enum name="circle" value="1"/>
+            <enum name="square" value="2"/>
+            <enum name="rectangle" value="3"/>
+        </attr>
+        <attr format="enum" name="wlv_triangle_direction">
+            <enum name="north" value="0"/>
+            <enum name="south" value="1"/>
+            <enum name="east" value="2"/>
+            <enum name="west" value="3"/>
+        </attr>
+        <attr format="integer" name="wlv_rectangle_width"/>
+        <attr format="integer" name="wlv_rectangle_height"/>
+        <attr format="boolean" name="wlv_round_rectangle"/>
+        <attr format="integer" name="wlv_round_rectangle_x_and_y"/>
+        <attr format="color" name="wlv_waveColor"/>
+        <attr format="float" name="wlv_waveAmplitude"/>
+        <attr format="string" name="wlv_titleTop"/>
+        <attr format="string" name="wlv_titleCenter"/>
+        <attr format="string" name="wlv_titleBottom"/>
+        <attr format="dimension" name="wlv_titleTopSize"/>
+        <attr format="dimension" name="wlv_titleCenterSize"/>
+        <attr format="dimension" name="wlv_titleBottomSize"/>
+        <attr format="color" name="wlv_titleTopColor"/>
+        <attr format="color" name="wlv_titleCenterColor"/>
+        <attr format="color" name="wlv_titleBottomColor"/>
+    </declare-styleable><declare-styleable name="CustomNumberPick">
+        
+        <attr format="dimension" name="CNP_Width"/>
+        <attr format="dimension" name="CNP_Height"/>
+        <attr format="dimension" name="CNP_EditWidth"/>
+        <attr format="reference" name="CNP_AddDrawable"/>
+        <attr format="reference" name="CNP_EditDrawable"/>
+        <attr format="reference" name="CNP_ReduceDrawable"/>
+    </declare-styleable><declare-styleable name="NumberProgressBarThemes">
+        <attr format="reference" name="numberProgressBarStyle"/>
+    </declare-styleable><declare-styleable name="SliderLayout">
+        
+        <attr format="enum" name="indicator_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr>
+        <attr format="boolean" name="auto_cycle"/>
+        
+        <attr format="enum" name="pager_animation">
+            <enum name="Default" value="0">Default</enum>
+            <enum name="Accordion" value="1">Accordion</enum>
+            <enum name="Background2Foreground" value="2">Background2Foreground</enum>
+            <enum name="CubeIn" value="3">CubeIn</enum>
+            <enum name="DepthPage" value="4">DepthPage</enum>
+            <enum name="Fade" value="5">Fade</enum>
+            <enum name="FlipHorizontal" value="6">FlipHorizontal</enum>
+            <enum name="FlipPage" value="7">FlipPage</enum>
+            <enum name="Foreground2Background" value="8">Foreground2Background</enum>
+            <enum name="RotateDown" value="9">RotateDown</enum>
+            <enum name="RotateUp" value="10">RotateUp</enum>
+            <enum name="Stack" value="11">Stack</enum>
+            <enum name="Tablet" value="12">Tablet</enum>
+            <enum name="ZoomIn" value="13">ZoomIn</enum>
+            <enum name="ZoomOutSlide" value="14">ZoomOutSlide</enum>
+            <enum name="ZoomOut" value="15">ZoomOut</enum>
+        </attr>
+        
+        <attr format="integer" name="pager_animation_span"/>
+    </declare-styleable><declare-styleable name="ProgressWheel">
+        <attr format="boolean" name="SAD_matProg_progressIndeterminate"/>
+        <attr format="color" name="SAD_matProg_barColor"/>
+        <attr format="color" name="SAD_matProg_rimColor"/>
+        <attr format="dimension" name="SAD_matProg_rimWidth"/>
+        <attr format="float" name="SAD_matProg_spinSpeed"/>
+        <attr format="integer" name="SAD_matProg_barSpinCycleTime"/>
+        <attr format="dimension" name="SAD_matProg_circleRadius"/>
+        <attr format="boolean" name="SAD_matProg_fillRadius"/>
+        <attr format="dimension" name="SAD_matProg_barWidth"/>
+        <attr format="boolean" name="SAD_matProg_linearProgress"/>
+    </declare-styleable><declare-styleable name="WaveSideBarView">
+        <attr format="color|reference" name="sidebarTextColor"/>
+        <attr format="color|reference" name="sidebarBackgroundColor"/>
+        <attr format="color|reference" name="sidebarChooseTextColor"/>
+        <attr format="dimension" name="sidebarTextSize"/>
+        <attr format="dimension" name="sidebarLargeTextSize"/>
+        <attr format="dimension" name="sidebarRadius"/>
+        <attr format="dimension" name="sidebarBallRadius"/>
+    </declare-styleable><declare-styleable name="SwipyRefreshLayout">
+        <attr name="SRL_direction">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+            <enum name="both" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="SwipeToLoadLayout">
+        <attr format="boolean" name="refresh_enabled"/>
+        <attr format="boolean" name="load_more_enabled"/>
+        <attr format="enum" name="swipe_style">
+            <enum name="classic" value="0"/>
+            <enum name="above" value="1"/>
+            <enum name="blew" value="2"/>
+            <enum name="scale" value="3"/>
+        </attr>
+        <attr format="dimension" name="refresh_trigger_offset"/>
+        <attr format="dimension" name="load_more_trigger_offset"/>
+        <attr format="dimension" name="refresh_final_drag_offset"/>
+        <attr format="dimension" name="load_more_final_drag_offset"/>
+        <attr format="integer" name="release_to_refreshing_scrolling_duration"/>
+        <attr format="integer" name="refresh_complete_delay_duration"/>
+        <attr format="integer" name="refresh_complete_to_default_scrolling_duration"/>
+        <attr format="integer" name="default_to_refreshing_scrolling_duration"/>
+        <attr format="integer" name="release_to_loading_more_scrolling_duration"/>
+        <attr format="integer" name="load_more_complete_delay_duration"/>
+        <attr format="integer" name="load_more_complete_to_default_scrolling_duration"/>
+        <attr format="integer" name="default_to_loading_more_scrolling_duration"/>
+    </declare-styleable><declare-styleable name="DropDownMenu">
+        
+        <attr format="color" name="DD_underlineColor"/>
+        
+        <attr format="color" name="DD_dividerColor"/>
+        
+        <attr format="color" name="DD_textSelectedColor"/>
+        
+        <attr format="color" name="DD_textUnselectedColor"/>
+        
+        <attr format="color" name="DD_menuBackgroundColor"/>
+        
+        <attr format="color" name="DD_maskColor"/>
+        
+        <attr format="dimension" name="DD_menuTextSize"/>
+        
+        <attr format="reference" name="DD_menuSelectedIcon"/>
+        
+        <attr format="reference" name="DD_menuUnselectedIcon"/>
+    </declare-styleable><declare-styleable name="NineGridImageView">
+        <attr format="dimension" name="singleImgSize"/>
+        <attr format="dimension" name="imgGap"/>
+        <attr format="integer" name="maxSize"/>
+        <attr format="enum" name="showStyle">
+            <enum name="grid" value="0"/>
+            <enum name="fill" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CalendarPickerView">
+        <attr name="android:background"/>
+        <attr format="color" name="TS_dividerColor"/>
+        <attr format="reference" name="TS_dayBackground"/>
+        <attr format="color" name="TS_dayTextColor"/>
+        <attr format="color" name="TS_titleTextColor"/>
+        <attr format="boolean" name="TS_displayHeader"/>
+        <attr format="color" name="TS_headerTextColor"/>
+    </declare-styleable><declare-styleable name="Themes">
+        <attr format="reference" name="SliderStyle"/>
+        <attr format="reference" name="PagerIndicatorStyle"/>
+    </declare-styleable><declare-styleable name="SpotsDialog">
+        <attr format="reference" name="SD_TitleAppearance"/>
+        <attr format="reference|string" name="SD_TitleText"/>
+        <attr format="integer" name="SD_SpotCount"/>
+        <attr format="reference" name="SD_Drawable"/>
+    </declare-styleable><declare-styleable name="AccelerationProgress">
+        
+        <attr format="dimension" name="AP_ball_radius"/>
+        
+        <attr format="dimension" name="AP_big_circle_stroke"/>
+        
+        <attr format="color" name="AP_ball_background"/>
+        
+        <attr format="color" name="AP_big_circle_background"/>
+        
+        <attr format="integer" name="AP_duration"/>
+        
+        <attr format="dimension" name="AP_text_size"/>
+        
+        <attr format="color" name="AP_text_color"/>
+    </declare-styleable><declare-styleable name="CustomTheme">
+        <attr format="reference" name="gifViewStyle"/>
+    </declare-styleable><declare-styleable name="MutiProgress">
+        <attr format="integer" name="nodesNum"/> 
+        <attr format="dimension" name="nodeRadius"/>
+        <attr format="reference" name="progressingDrawable"/>
+        <attr format="reference" name="unprogressingDrawable"/>  
+        <attr format="reference" name="progresFailDrawable"/>
+        <attr format="reference" name="progresSuccDrawable"/>
+
+        <attr format="color" name="processingLineColor"/>
+        <attr format="integer" name="currNodeNO"/>   
+        <attr format="integer" name="currNodeState"/>   
+    </declare-styleable><declare-styleable name="PagerIndicator">
+        
+        <attr format="enum" name="visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr>
+        <attr format="enum" name="shape">
+            <enum name="oval" value="0"/>
+            <enum name="rect" value="1"/>
+        </attr>
+        <attr format="color" name="selected_color"/>
+        <attr format="color" name="unselected_color"/>
+        
+        <attr format="reference" name="selected_drawable"/>
+        <attr format="reference" name="unselected_drawable"/>
+        <attr format="dimension" name="selected_width"/>
+        <attr format="dimension" name="selected_height"/>
+        <attr format="dimension" name="unselected_width"/>
+        <attr format="dimension" name="unselected_height"/>
+        <attr format="dimension" name="padding_left"/>
+        <attr format="dimension" name="padding_right"/>
+        <attr format="dimension" name="padding_top"/>
+        <attr format="dimension" name="padding_bottom"/>
+        <attr format="dimension" name="selected_padding_left"/>
+        <attr format="dimension" name="selected_padding_right"/>
+        <attr format="dimension" name="selected_padding_top"/>
+        <attr format="dimension" name="selected_padding_bottom"/>
+        <attr format="dimension" name="unselected_padding_left"/>
+        <attr format="dimension" name="unselected_padding_right"/>
+        <attr format="dimension" name="unselected_padding_top"/>
+        <attr format="dimension" name="unselected_padding_bottom"/>
+    </declare-styleable><declare-styleable name="GifView">
+        <attr format="reference" name="gif"/>
+        <attr format="boolean" name="paused"/>
+    </declare-styleable><declare-styleable name="MagicProgressCircle">
+        
+        <attr format="float" name="mpc_percent"/>
+        
+        <attr format="dimension" name="mpc_stroke_width"/>
+        
+        <attr format="color" name="mpc_start_color"/>
+        
+        <attr format="color" name="mpc_end_color"/>
+        
+        <attr format="color" name="mpc_default_color"/>
+    </declare-styleable><declare-styleable name="FlowLayout">
+        <attr format="boolean" name="FL_auto_select_effect"/>
+        <attr format="integer" name="FL_max_select"/>
+    </declare-styleable><declare-styleable name="MagicProgressBar">
+        
+        <attr format="float" name="mpb_percent"/>
+        
+        <attr format="color" name="mpb_fill_color"/>
+        
+        <attr format="color" name="mpb_background_color"/>
+        
+        <attr format="boolean" name="mpb_flat"/>
+    </declare-styleable><declare-styleable name="SwipeLayout">
+        <attr name="SL_drag_edge">
+            <flag name="left" value="1"/>
+            <flag name="right" value="2"/>
+            <flag name="top" value="4"/>
+            <flag name="bottom" value="8"/>
+        </attr>
+        <attr format="dimension" name="SL_leftEdgeSwipeOffset"/>
+        <attr format="dimension" name="SL_rightEdgeSwipeOffset"/>
+        <attr format="dimension" name="SL_topEdgeSwipeOffset"/>
+        <attr format="dimension" name="SL_bottomEdgeSwipeOffset"/>
+        <attr format="enum" name="SL_show_mode">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr>
+        <attr format="boolean" name="SL_clickToClose"/>
+    </declare-styleable><declare-styleable name="calendar_cell">
+        <attr format="boolean" name="TS_state_selectable"/>
+        <attr format="boolean" name="TS_state_current_month"/>
+        <attr format="boolean" name="TS_state_today"/>
+        <attr format="boolean" name="TS_state_range_first"/>
+        <attr format="boolean" name="TS_state_range_middle"/>
+        <attr format="boolean" name="TS_state_range_last"/>
+        <attr format="boolean" name="TS_state_highlighted"/>
+    </declare-styleable><declare-styleable name="ProgressPieView">
+        <attr name="android:text"/>
+        <attr name="android:textSize"/>
+        <attr name="android:textColor"/>
+        <attr format="integer" name="ppvProgress"/>
+        <attr format="integer" name="ppvMax"/>
+        <attr format="integer" name="ppvStartAngle"/>
+        <attr format="boolean" name="ppvInverted"/>
+        <attr format="boolean" name="ppvCounterclockwise"/>
+        <attr format="dimension" name="ppvStrokeWidth"/>
+        <attr format="reference|color" name="ppvBackgroundColor"/>
+        <attr format="reference|color" name="ppvProgressColor"/>
+        <attr format="reference|color" name="ppvStrokeColor"/>
+        <attr format="boolean" name="ppvShowStroke"/>
+        <attr format="boolean" name="ppvShowText"/>
+        <attr format="string" name="ppvTypeface"/>
+        <attr format="reference" name="ppvImage"/>
+        <attr format="enum" name="ppvProgressFillType">
+            <enum name="radial" value="0"/>
+            <enum name="center" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="NavigationTabBar">
+        <attr format="boolean" name="ntb_titled"/>
+        <attr format="boolean" name="ntb_scaled"/>
+        <attr format="boolean" name="ntb_badged"/>
+        <attr format="boolean" name="ntb_badge_use_typeface"/>
+
+        <attr format="enum" name="ntb_title_mode">
+            <enum name="all" value="0"/>
+            <enum name="active" value="1"/>
+        </attr>
+        <attr format="enum" name="ntb_badge_position">
+            <enum name="left" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+        <attr format="enum" name="ntb_badge_gravity">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+        </attr>
+
+        <attr format="string" name="ntb_typeface"/>
+        <attr format="dimension" name="ntb_corners_radius"/>
+        <attr format="integer" name="ntb_animation_duration"/>
+
+        <attr format="color" name="ntb_inactive_color"/>
+        <attr format="color" name="ntb_active_color"/>
+
+        <attr format="reference" name="ntb_preview_colors"/>
+    </declare-styleable></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\color.xml" qualifiers=""><color name="calendar_bg">#ffffffff</color><color name="calendar_text_unselectable">#7f778088</color><color name="menu_bg">#2b2b2b</color><color name="menu_item_background">#f2f2f2</color><color name="gray_btn_bg_color">#D0D0D0</color><color name="comment_popup_tx_bg">#c7c7c7</color><color name="calendar_text_active">#ff778088</color><color name="biz_audio_progress_first">#ffffff</color><color name="light_gray">#B0B0B0</color><color name="warning_stroke_color">#F8BB86</color><color name="material_blue_grey_80">#ff37474f</color><color name="sweet_dialog_bg_color">#FFFFFF</color><color name="material_deep_teal_20">#ff80cbc4</color><color name="menu_click_bg">#515151</color><color name="indicator_select">#F72E02</color><color name="float_transparent">#00000000</color><color name="text_color">#575757</color><item name="gray_holo_dark" type="color">#ff464646</item><color name="default_stroke_color">#33b5e5</color><color name="calendar_text_selected">#ffffffff</color><color name="calendar_highlighted_day_bg">#ccffcc</color><color name="calendar_text_inactive">#40778088</color><color name="indicator_normal">#fff0f0f0</color><color name="black_87">#de000000</color><color name="color_accent">#7c4dff</color><color name="custom_bg_grey">#F0F0F0</color><color name="line_bg">#CDCDCD</color><color name="material_blue_grey_90">#ff263238</color><color name="blue_btn_bg_color">#AEDEF4</color><color name="custom_main_dark">#304070</color><color name="appmsg_custom">#454545</color><color name="black_a10_color">#1a000000</color><color name="custom_main">#44619c</color><color name="calendar_active_month_bg">#fff5f7f9</color><color name="calendar_selected_range_bg">#ff96caff</color><color name="biz_audio_progress_bg">#ff0000</color><color name="mpc_default_color">#1AFFFFFF</color><color name="calendar_divider">#ffbababa</color><color name="slider_color_normal">#F72E02</color><color name="black_30">#1d000000</color><color name="google_red">#EA4335</color><color name="white_fafaf8">#fafaf8</color><color name="button_text_color">#FFFFFF</color><color name="color_success">#3CCD88</color><color name="bg_pulltonext">#F8F8F8</color><color name="custom_txt_darkgray">#606060</color><color name="mpc_start_color">#FF00FFED</color><color name="CircularProgress_4">#FF34A350</color><color name="calendar_inactive_month_bg">#ffd7d9db</color><color name="CircularProgress_3">#FFF7D23E</color><color name="red_btn_bg_pressed_color">#CD5B55</color><color name="red_btn_bg_color">#DD6B55</color><color name="appmsg_confirm">#FF8800</color><color name="google_green">#34A853</color><color name="CircularProgress_2">#FF375BF1</color><color name="default_background_color">@android:color/transparent</color><color name="CircularProgress_1">#FFC93437</color><color name="google_blue">#4285F4</color><color name="color_error">#f44336</color><color name="material_blue_grey_95">#ff21272b</color><color name="default_bg">#aa000000</color><color name="mpc_end_color">#FFED00FF</color><color name="default_text_color">#333333</color><color name="success_stroke_color">#A5DC86</color><color name="black_20">#14000000</color><color name="google_yellow">#FBBC05</color><color name="default_progress_color">#33b5e5</color><color name="material_deep_teal_50">#ff009688</color><color name="biz_audio_progress_second">#6b6666</color><color name="blue_btn_bg_pressed_color">#96BFD2</color><color name="calendar_selected_day_bg">#ff379bff</color><color name="slider_color">#ff969696</color><color name="gray_btn_bg_pressed_color">#B6B6B6</color><color name="appmsg_alert">#CC0000</color><color name="menu_fragment_background">#B3000000</color><item name="gray_holo_light" type="color">#ffd0d0d0</item><color name="trans_success_stroke_color">#33A5DC86</color><color name="dialogTxtColor">#0048fc</color><color name="popup_bg">#8f000000</color><color name="click_bg">#c7c7c7</color><color name="appmsg_info">#669900</color><color name="theme_gray">#F5F5F5</color><color name="error_stroke_color">#F27474</color><color name="comment_popup_bg">#292929</color><color name="custom_txt_whitegray">#D5D5D5</color><color name="divider_color">#b5b5b5</color><color name="custom_txt_midiumgray">#909090</color><color name="black_54">#8a000000</color></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\common_color.xml" qualifiers=""><color name="lightsalmon">#FFA07A</color><color name="darkcyan">#008B8B</color><color name="olivedrab">#6B8E23</color><color name="lightcyan">#E0FFFF</color><color name="maroon">#800000</color><color name="mediumspringgreen">#00FA9A</color><color name="royalblue">#4169E1</color><color name="darkmagenta">#8B008B</color><color name="darkgreen">#006400</color><color name="mintcream">#F5FFFA</color><color name="seagreen">#2E8B57</color><color name="transparent">#00000000</color><color name="peru">#CD853F</color><color name="slategrey">#708090</color><color name="floralwhite">#FFFAF0</color><color name="dimgray">#696969</color><color name="beige">#F5F5DC</color><color name="orchid">#DA70D6</color><color name="lavenderblush">#FFF0F5</color><color name="bisque">#FFE4C4</color><color name="goldenrod">#DAA520</color><color name="palegreen">#98FB98</color><color name="mediumturquoise">#48D1CC</color><color name="green">#008000</color><color name="darkslategray">#2F4F4F</color><color name="lime">#00FF00</color><color name="chocolate">#D2691E</color><color name="darkslateblue">#483D8B</color><color name="oldlace">#FDF5E6</color><color name="ghostwhite">#F8F8FF</color><color name="purple">#800080</color><color name="darkblue">#00008B</color><color name="burlywood">#DEB887</color><color name="white">#FFFFFF</color><color name="grey">#808080</color><color name="palevioletred">#DB7093</color><color name="lightgray">#D3D3D3</color><color name="mediumvioletred">#C71585</color><color name="darkgrey">#A9A9A9</color><color name="steelblue">#4682B4</color><color name="darkkhaki">#BDB76B</color><color name="rosybrown">#BC8F8F</color><color name="dodgerblue">#1E90FF</color><color name="lightslategrey">#778899</color><color name="midnightblue">#191970</color><color name="salmon">#FA8072</color><color name="peachpuff">#FFDAB9</color><color name="lightblue">#ADD8E6</color><color name="black">#000000</color><color name="crimson">#DC143C</color><color name="darkorange">#FF8C00</color><color name="gainsboro">#DCDCDC</color><color name="saddlebrown">#8B4513</color><color name="black2">#404040</color><color name="cadetblue">#5F9EA0</color><color name="tomato">#FF6347</color><color name="darkolivegreen">#556B2F</color><color name="aquamarine">#7FFFD4</color><color name="darkred">#8B0000</color><color name="lightpink">#FFB6C1</color><color name="indianred">#CD5C5C</color><color name="mediumaquamarine">#66CDAA</color><color name="forestgreen">#228B22</color><color name="mediumpurple">#9370DB</color><color name="wheat">#F5DEB3</color><color name="cornflowerblue">#6495ED</color><color name="darksalmon">#E9967A</color><color name="mediumorchid">#BA55D3</color><color name="cyan">#00FFFF</color><color name="thistle">#D8BFD8</color><color name="ivory">#FFFFF0</color><color name="silver">#C0C0C0</color><color name="cornsilk">#FFF8DC</color><color name="slategray">#708090</color><color name="lightgoldenrodyellow">#FAFAD2</color><color name="aliceblue">#F0F8FF</color><color name="limegreen">#32CD32</color><color name="powderblue">#B0E0E6</color><color name="indigo">#4B0082</color><color name="lightsteelblue">#B0C4DE</color><color name="slateblue">#6A5ACD</color><color name="darkgoldenrod">#B8860B</color><color name="springgreen">#00FF7F</color><color name="lightyellow">#FFFFE0</color><color name="seashell">#FFF5EE</color><color name="blueviolet">#8A2BE2</color><color name="orangered">#FF4500</color><color name="snow">#FFFAFA</color><color name="brown">#A52A2A</color><color name="whitesmoke">#F5F5F5</color><color name="honeydew">#F0FFF0</color><color name="dimgrey">#696969</color><color name="pink">#FFC0CB</color><color name="firebrick">#B22222</color><color name="lightseagreen">#20B2AA</color><color name="antiquewhite">#FAEBD7</color><color name="deepskyblue">#00BFFF</color><color name="coral">#FF7F50</color><color name="teal">#008080</color><color name="blue">#0000FF</color><color name="orange">#FFA500</color><color name="gold">#FFD700</color><color name="darkslategrey">#2F4F4F</color><color name="lawngreen">#7CFC00</color><color name="sandybrown">#F4A460</color><color name="gray">#808080</color><color name="moccasin">#FFE4B5</color><color name="lavender">#E6E6FA</color><color name="mediumslateblue">#7B68EE</color><color name="magenta">#FF00FF</color><color name="lightgrey">#D3D3D3</color><color name="darkgray">#A9A9A9</color><color name="darkorchid">#9932CC</color><color name="hotpink">#FF69B4</color><color name="lightcoral">#F08080</color><color name="violet">#EE82EE</color><color name="palegoldenrod">#EEE8AA</color><color name="khaki">#F0E68C</color><color name="greenyellow">#ADFF2F</color><color name="darkturquoise">#00CED1</color><color name="papayawhip">#FFEFD5</color><color name="navy">#000080</color><color name="darkviolet">#9400D3</color><color name="lightskyblue">#87CEFA</color><color name="aqua">#00FFFF</color><color name="lightslategray">#778899</color><color name="sienna">#A0522D</color><color name="mistyrose">#FFE4E1</color><color name="lightgreen">#90EE90</color><color name="red">#FF0000</color><color name="blanchedalmond">#FFEBCD</color><color name="navajowhite">#FFDEAD</color><color name="linen">#FAF0E6</color><color name="yellow">#FFFF00</color><color name="tan">#D2B48C</color><color name="fuchsia">#FF00FF</color><color name="paleturquoise">#AFEEEE</color><color name="azure">#F0FFFF</color><color name="plum">#DDA0DD</color><color name="darkseagreen">#8FBC8F</color><color name="mediumblue">#0000CD</color><color name="deeppink">#FF1493</color><color name="turquoise">#40E0D0</color><color name="mediumseagreen">#3CB371</color><color name="lemonchiffon">#FFFACD</color><color name="chartreuse">#7FFF00</color><color name="olive">#808000</color><color name="skyblue">#87CEEB</color></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\dimens.xml" qualifiers=""><dimen name="arc_max_height">50dp</dimen><dimen name="text_wrapper_right_margin">-8dp</dimen><dimen name="menu_text_size">15sp</dimen><dimen name="spot_size">6dp</dimen><dimen name="ted_picker_selected_image_height">90dp</dimen><dimen name="ted_picker_fab_elevation">8dp</dimen><dimen name="padding10">10dp</dimen><dimen name="load_more_footer_height_classic">60dp</dimen><dimen name="textSize_sidebar_choose">12sp</dimen><integer name="num_cols">1</integer><dimen name="large_textSize_sidebar">32sp</dimen><dimen name="menu_item_padding">2dp</dimen><dimen name="refresh_header_height_yalantis">136dp</dimen><dimen name="indicator_width">12dp</dimen><dimen name="progress_circle_radius">34dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="calendar_text_medium">18sp</dimen><dimen name="text_right_padding">28dp</dimen><dimen name="refresh_final_offset_google">150dp</dimen><dimen name="load_more_trigger_offset_google">88dp</dimen><dimen name="ball_radius_sidebar">24dp</dimen><dimen name="indicator_padding">2dp</dimen><dimen name="load_more_final_offset_google">120dp</dimen><dimen name="ted_picker_fab_size">60dp</dimen><dimen name="sheet_height">290dp</dimen><dimen name="spot_margin">24dp</dimen><dimen name="radius_sidebar">20dp</dimen><dimen name="cl_title_trans">40dp</dimen><dimen name="textSize_sidebar">10sp</dimen><dimen name="textSize_sidebar_padding">20sp</dimen><dimen name="calendar_text_small">14sp</dimen><dimen name="media_controller_view_height">40.0dip</dimen><dimen name="common_circle_width">3dp</dimen><dimen name="text_right_translation">8dp</dimen><dimen name="ted_picker_fab_press_translation_z">9dp</dimen><dimen name="indicator_height">2dp</dimen><dimen name="fab_margin">0dp</dimen><dimen name="refresh_trigger_offset_google">100dp</dimen><dimen name="divider_height">1dp</dimen><dimen name="cl_title_size">20sp</dimen><dimen name="tool_bar_height">56dp</dimen><dimen name="spot_width">250dp</dimen><dimen name="refresh_header_height_twitter">80dp</dimen><dimen name="nice_spinner_three_grid_unit">24dp</dimen><dimen name="nice_spinner_one_and_a_half_grid_unit">12dp</dimen><dimen name="refresh_header_height_google">100dp</dimen><dimen name="alert_width">290dp</dimen><dimen name="calendar_month_topmargin">16dp</dimen><dimen name="list_padding">10dp</dimen><dimen name="acc_default_size">100dp</dimen><dimen name="calendar_day_headers_paddingbottom">4dp</dimen><dimen name="refresh_header_height_jd">100dp</dimen><dimen name="load_more_footer_height_google">72dp</dimen><dimen name="load_more_drawable_size_google">36dp</dimen><dimen name="shadow_width">15dp</dimen><dimen name="load_more_footer_height_twitter">60dp</dimen><dimen name="ted_picker_camera_height">250dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="calendar_month_title_bottommargin">4dp</dimen><dimen name="slidingmenu_offset">60dp</dimen><dimen name="refresh_drawable_size_google">40dp</dimen></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\free_grow_up_ parent_framelayout_attr.xml" qualifiers=""><declare-styleable name="FreeGrowUpParentRelativeLayout">
+        <attr format="dimension|reference" name="offset"/>
+    </declare-styleable></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\ids.xml" qualifiers=""><item name="swipe_refresh_header" type="id"/><item name="view3" type="id"/><item name="view4" type="id"/><item name="cl_menu" type="id"/><item name="cl_title" type="id"/><item name="view1" type="id"/><item name="view2" type="id"/><item name="view0" type="id"/><item name="swipe_target" type="id"/><item name="swipe_load_more_footer" type="id"/><item name="swipe_head" type="id"/></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\numberprogressbar_styles.xml" qualifiers=""><style name="NumberProgressBar_Beauty_Red">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="NPB_max">100</item>
+        <item name="NPB_current">0</item>
+
+        <item name="NPB_unreached_color">#CCCCCC</item>
+        <item name="NPB_reached_color">#FF3D7F</item>
+        <item name="NPB_text_size">10sp</item>
+        <item name="NPB_text_color">#FF3D7F</item>
+
+        <item name="NPB_reached_bar_height">1.5dp</item>
+        <item name="NPB_unreached_bar_height">0.75dp</item>
+    </style><style name="NumberProgressBar_Relax_Blue">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="NPB_max">100</item>
+        <item name="NPB_current">0</item>
+
+        <item name="NPB_unreached_color">#CCCCCC</item>
+        <item name="NPB_reached_color">#6DBCDB</item>
+        <item name="NPB_text_size">10sp</item>
+        <item name="NPB_text_color">#6DBCDB</item>
+
+        <item name="NPB_reached_bar_height">1.5dp</item>
+        <item name="NPB_unreached_bar_height">0.75dp</item>
+    </style><style name="NumberProgressBar_Grace_Yellow">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="NPB_max">100</item>
+        <item name="NPB_current">0</item>
+
+        <item name="NPB_unreached_color">#CCCCCC</item>
+        <item name="NPB_reached_color">#FFC73B</item>
+        <item name="NPB_text_size">10sp</item>
+        <item name="NPB_text_color">#FFC73B</item>
+
+        <item name="NPB_reached_bar_height">1.5dp</item>
+        <item name="NPB_unreached_bar_height">0.75dp</item>
+    </style><style name="NumberProgressBar_Warning_Red">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="NPB_max">100</item>
+        <item name="NPB_current">0</item>
+
+        <item name="NPB_unreached_color">#CCCCCC</item>
+        <item name="NPB_reached_color">#E74C3C</item>
+        <item name="NPB_text_size">10sp</item>
+        <item name="NPB_text_color">#E74C3C</item>
+
+        <item name="NPB_reached_bar_height">1.5dp</item>
+        <item name="NPB_unreached_bar_height">0.75dp</item>
+    </style><style name="NumberProgressBar_Default">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="NPB_max">100</item>
+        <item name="NPB_current">0</item>
+
+        <item name="NPB_unreached_color">#CCCCCC</item>
+        <item name="NPB_reached_color">#3498DB</item>
+
+        <item name="NPB_text_size">10sp</item>
+        <item name="NPB_text_color">#3498DB</item>
+
+        <item name="NPB_reached_bar_height">1.5dp</item>
+        <item name="NPB_unreached_bar_height">0.75dp</item>
+    </style><style name="NumberProgressBar_Passing_Green">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="NPB_max">100</item>
+        <item name="NPB_current">0</item>
+
+        <item name="NPB_unreached_color">#CCCCCC</item>
+        <item name="NPB_reached_color">#70A800</item>
+
+        <item name="NPB_text_size">10sp</item>
+        <item name="NPB_text_color">#70A800</item>
+
+        <item name="NPB_reached_bar_height">1.5dp</item>
+        <item name="NPB_unreached_bar_height">0.75dp</item>
+    </style><style name="NumberProgressBar_Funny_Orange">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="NPB_max">100</item>
+        <item name="NPB_current">0</item>
+
+        <item name="NPB_unreached_color">#CCCCCC</item>
+        <item name="NPB_reached_color">#FF530D</item>
+        <item name="NPB_text_size">10sp</item>
+        <item name="NPB_text_color">#FF530D</item>
+
+        <item name="NPB_reached_bar_height">1.5dp</item>
+        <item name="NPB_unreached_bar_height">0.75dp</item>
+    </style><style name="NumberProgressBar_Twinkle_Night">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="NPB_max">100</item>
+        <item name="NPB_current">0</item>
+
+        <item name="NPB_unreached_color">#CCCCCC</item>
+        <item name="NPB_reached_color">#ECF0F1</item>
+        <item name="NPB_text_size">10sp</item>
+        <item name="NPB_text_color">#ECF0F1</item>
+
+        <item name="NPB_reached_bar_height">1.5dp</item>
+        <item name="NPB_unreached_bar_height">0.75dp</item>
+    </style></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\strings.xml" qualifiers=""><string-array name="default_preview">
+        <item>#df5a55</item>
+        <item>#f9bb72</item>
+        <item>#76afcf</item>
+        <item>#dd6495</item>
+        <item>#72d3b4</item>
+    </string-array><string name="dialog_ok">确认</string><string name="focusing">请稍后</string><string name="dialog_cancel">取消</string><string name="no_image">没有图片</string><string name="selected_image">选中的图片</string><string name="timespan_now">刚刚</string><plurals name="timespan_minutes">
+        <item quantity="other">%d分钟前</item>
+    </plurals><string name="done">完成</string><plurals name="timespan_years">
+        <item quantity="other">%d年前</item>
+    </plurals><plurals name="timespan_seconds_abbr">
+        <item quantity="other">%d秒</item>
+    </plurals><string name="month_name_format">MMMM yyyy</string><plurals name="timespan_minutes_abbr">
+        <item quantity="other">%d分钟</item>
+    </plurals><string-array name="tab_titles">
+        <item>拍照</item>
+        <item>图片</item>
+    </string-array><string name="min_count_msg">您至少需选中 %1$d 张图片</string><plurals name="timespan_years_abbr">
+        <item quantity="other">%d年</item>
+    </plurals><string name="progress_title">加载中..</string><string name="invalid_date"> 选择的日期必须在 %1$s 和 %2$s 之间.</string><plurals name="timespan_days_abbr">
+        <item quantity="other">%d天</item>
+    </plurals><plurals name="timespan_months">
+        <item quantity="other">%d个月前</item>
+    </plurals><string name="max_count_msg">%1$d 张图片已选中</string><string name="app_name">BaseLibrary</string><plurals name="timespan_months_abbr">
+        <item quantity="other">%d月</item>
+    </plurals><plurals name="timespan_hours_abbr">
+        <item quantity="other">%d小时</item>
+    </plurals><string name="LOADING">加载中…</string><string name="day_name_format">EEE</string><string-array name="date">
+        <item>年</item>
+        <item>月</item>
+        <item>日</item>
+    </string-array><string-array name="pullToNextViewStates">
+        <item>没有更多信息</item>
+        <item>放手查看下一个</item>
+        <item>上拉查看下一个</item>
+        <item>已经是第一个了</item>
+        <item>放手查看前一个</item>
+        <item>下拉查看前一个</item>
+    </string-array><string name="toolbar_title">选择图片</string><plurals name="timespan_hours">
+        <item quantity="other">%d小时前</item>
+    </plurals><plurals name="timespan_weeks">
+        <item quantity="other">%d周前</item>
+    </plurals><plurals name="timespan_days">
+        <item quantity="other">%d天前</item>
+    </plurals><string name="default_directory">图片</string><plurals name="timespan_seconds">
+        <item quantity="other">%d秒前</item>
+    </plurals><string name="dialog_default_title">标题</string><plurals name="timespan_weeks_abbr">
+        <item quantity="other">%d周</item>
+    </plurals></file><file path="F:\project\KFApp\baselibrary\src\main\res\values\styles.xml" qualifiers=""><style name="alert_dialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@color/float_transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style><style name="CalendarCell.DayHeader">
+        <item name="android:textSize">@dimen/calendar_text_small</item>
+    </style><style name="dialog_blue_button" parent="android:Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">31dp</item>
+        <item name="android:background">@drawable/sweetalert_blue_button_background</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingLeft">21dp</item>
+        <item name="android:paddingRight">21dp</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style><style name="CustomText_Subhead" parent="@style/CustomText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black_87</item>
+    </style><style name="CustomText" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black_87</item>
+    </style><style name="dialogAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_show</item>
+        <item name="android:windowExitAnimation">@anim/dialog_dismiss</item>
+    </style><style name="AndroidImageSlider_Magnifier_Oval_Black">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="shape">oval</item>
+        <item name="padding_left">3dp</item>
+        <item name="padding_right">3dp</item>
+        <item name="padding_top">4dp</item>
+        <item name="padding_bottom">4dp</item>
+        <item name="selected_color">#333333</item>
+        <item name="unselected_color">#33000000</item>
+        <item name="selected_width">8dp</item>
+        <item name="selected_height">8dp</item>
+        <item name="unselected_width">6dp</item>
+        <item name="unselected_height">6dp</item>
+    </style><style name="Widget.GifView" parent="@android:style/Widget"/><item name="contentFL2" type="id"/><item name="contentFL1" type="id"/><style name="MenuFragmentStyle" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:colorForeground">@android:color/transparent</item>
+        <item name="android:colorForegroundInverse">@android:color/transparent</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style><style name="CustomText_Body" parent="@style/CustomText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black_87</item>
+    </style><style name="line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:background">@color/line_bg</item>
+        <item name="android:layout_margin">0.5dp</item>
+    </style><item name="contentFL3" type="id"/><style name="DialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="AndroidImageSlider_Attractive_Rect_Blue">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="shape">rect</item>
+        <item name="padding_left">3dp</item>
+        <item name="padding_right">3dp</item>
+        <item name="padding_top">4dp</item>
+        <item name="padding_bottom">4dp</item>
+        <item name="selected_color">#30CCE5</item>
+        <item name="unselected_color">#333333</item>
+        <item name="selected_width">13dp</item>
+        <item name="selected_height">4dp</item>
+        <item name="unselected_width">13dp</item>
+        <item name="unselected_height">4dp</item>
+    </style><style name="CustomText_Caption" parent="@style/CustomText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/black_54</item>
+    </style><style name="CalendarCell.CalendarDate">
+        <item name="android:textSize">@dimen/calendar_text_medium</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="CalendarCell">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAlignment" ns1:targetApi="jelly_bean_mr1">center
+        </item>
+    </style><style name="SpotsDialogDefault" parent="@style/DialogStyle">
+        <item name="SD_TitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="SD_TitleText">Loading…</item>
+        <item name="SD_SpotCount">5</item>
+    </style><style name="CustomText_Title" parent="@style/CustomText">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/black_87</item>
+    </style><style name="TextView.DefaultStyle">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/menu_text_size</item>
+    </style><style name="TextView"/><style name="AndroidImageSlider_Corner_Oval_Orange">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/sliderlayout_indicator_corner_bg</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="shape">oval</item>
+        <item name="padding_left">3dp</item>
+        <item name="padding_right">3dp</item>
+        <item name="padding_top">4dp</item>
+        <item name="padding_bottom">4dp</item>
+        <item name="selected_color">#f60</item>
+        <item name="unselected_color">#ffffff</item>
+        <item name="selected_width">6dp</item>
+        <item name="selected_height">6dp</item>
+        <item name="unselected_width">6dp</item>
+        <item name="unselected_height">6dp</item>
+    </style><color name="pullToNextView_bg">#dddddd</color><style name="CustomText_Display" parent="@style/CustomText">
+        <item name="android:textSize">34sp</item>
+        <item name="android:textColor">@color/black_54</item>
+    </style><style name="CalendarTitle">
+        <item name="android:textSize">@dimen/calendar_text_medium</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="CustomText_Headline" parent="@style/CustomText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/black_87</item>
+    </style></file><file path="F:\project\KFApp\baselibrary\src\main\res\values-v19\ids.xml" qualifiers="v19"><item name="scrollview" type="id"/></file></source><source path="F:\project\KFApp\baselibrary\build\generated\res\rs\release"/><source path="F:\project\KFApp\baselibrary\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="F:\project\KFApp\baselibrary\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SliderLayout"><attr format="enum" name="indicator_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr><attr format="boolean" name="auto_cycle"/><attr format="enum" name="pager_animation">
+            <enum name="Default" value="0">Default</enum>
+            <enum name="Accordion" value="1">Accordion</enum>
+            <enum name="Background2Foreground" value="2">Background2Foreground</enum>
+            <enum name="CubeIn" value="3">CubeIn</enum>
+            <enum name="DepthPage" value="4">DepthPage</enum>
+            <enum name="Fade" value="5">Fade</enum>
+            <enum name="FlipHorizontal" value="6">FlipHorizontal</enum>
+            <enum name="FlipPage" value="7">FlipPage</enum>
+            <enum name="Foreground2Background" value="8">Foreground2Background</enum>
+            <enum name="RotateDown" value="9">RotateDown</enum>
+            <enum name="RotateUp" value="10">RotateUp</enum>
+            <enum name="Stack" value="11">Stack</enum>
+            <enum name="Tablet" value="12">Tablet</enum>
+            <enum name="ZoomIn" value="13">ZoomIn</enum>
+            <enum name="ZoomOutSlide" value="14">ZoomOutSlide</enum>
+            <enum name="ZoomOut" value="15">ZoomOut</enum>
+        </attr><attr format="integer" name="pager_animation_span"/></declare-styleable><declare-styleable name="WaveLoadingView"><attr format="dimension" name="wlv_borderWidth"/><attr format="color" name="wlv_borderColor"/><attr format="integer" name="wlv_progressValue"/><attr format="enum" name="wlv_shapeType">
+            <enum name="triangle" value="0"/>
+            <enum name="circle" value="1"/>
+            <enum name="square" value="2"/>
+            <enum name="rectangle" value="3"/>
+        </attr><attr format="enum" name="wlv_triangle_direction">
+            <enum name="north" value="0"/>
+            <enum name="south" value="1"/>
+            <enum name="east" value="2"/>
+            <enum name="west" value="3"/>
+        </attr><attr format="integer" name="wlv_rectangle_width"/><attr format="integer" name="wlv_rectangle_height"/><attr format="boolean" name="wlv_round_rectangle"/><attr format="integer" name="wlv_round_rectangle_x_and_y"/><attr format="color" name="wlv_waveColor"/><attr format="float" name="wlv_waveAmplitude"/><attr format="string" name="wlv_titleTop"/><attr format="string" name="wlv_titleCenter"/><attr format="string" name="wlv_titleBottom"/><attr format="dimension" name="wlv_titleTopSize"/><attr format="dimension" name="wlv_titleCenterSize"/><attr format="dimension" name="wlv_titleBottomSize"/><attr format="color" name="wlv_titleTopColor"/><attr format="color" name="wlv_titleCenterColor"/><attr format="color" name="wlv_titleBottomColor"/></declare-styleable><declare-styleable name="NiceSpinner"><attr format="color" name="NS_arrowTint"/><attr format="boolean" name="NS_hideArrow"/></declare-styleable><declare-styleable name="PullToZoomView"><attr format="reference" name="PTZV_headerView"/><attr format="reference" name="PTZV_contentView"/><attr format="reference" name="PTZV_zoomView"/><attr format="boolean" name="PTZV_isHeaderParallax"/></declare-styleable><declare-styleable name="HTextView"><attr format="boolean" name="HTV_isAnimate"/><attr format="enum" name="HTV_animateType">
+            <enum name="scale" value="0"/>
+            <enum name="evaporate" value="1"/>
+            <enum name="fall" value="2"/>
+            <enum name="sparkle" value="3"/>
+            <enum name="anvil" value="4"/>
+            <enum name="line" value="5"/>
+            <enum name="pixelate" value="6"/>
+            <enum name="typer" value="7"/>
+            <enum name="rainbow" value="8"/>
+        </attr></declare-styleable><declare-styleable name="MagicProgressCircle"><attr format="float" name="mpc_percent"/><attr format="dimension" name="mpc_stroke_width"/><attr format="color" name="mpc_start_color"/><attr format="color" name="mpc_end_color"/><attr format="color" name="mpc_default_color"/></declare-styleable><declare-styleable name="WaveSideBarView"><attr format="color|reference" name="sidebarTextColor"/><attr format="color|reference" name="sidebarBackgroundColor"/><attr format="color|reference" name="sidebarChooseTextColor"/><attr format="dimension" name="sidebarTextSize"/><attr format="dimension" name="sidebarLargeTextSize"/><attr format="dimension" name="sidebarRadius"/><attr format="dimension" name="sidebarBallRadius"/></declare-styleable><declare-styleable name="RichText"><attr format="reference" name="RT_placeHolder"/><attr format="reference" name="RT_errorImage"/><attr format="dimension" name="RT_default_width"/><attr format="dimension" name="RT_default_height"/></declare-styleable><declare-styleable name="FrameLayoutCompat2"><attr format="reference|color" name="FC_foreground"/><attr name="FC_foregroundGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+        </attr><attr format="boolean" name="FC_foregroundInsidePadding"/><attr format="boolean" name="FC_measureAllChildren"/><attr format="color" name="FC_foregroundTint"/><attr name="FC_foregroundTintMode">
+            
+            <enum name="src_over" value="3"/>
+            
+            <enum name="src_in" value="5"/>
+            
+            <enum name="src_atop" value="9"/>
+            
+            <enum name="multiply" value="14"/>
+            
+            <enum name="screen" value="15"/>
+            
+            <enum name="add" value="16"/>
+        </attr></declare-styleable><declare-styleable name="SwipeLayout"><attr name="SL_drag_edge">
+            <flag name="left" value="1"/>
+            <flag name="right" value="2"/>
+            <flag name="top" value="4"/>
+            <flag name="bottom" value="8"/>
+        </attr><attr format="dimension" name="SL_leftEdgeSwipeOffset"/><attr format="dimension" name="SL_rightEdgeSwipeOffset"/><attr format="dimension" name="SL_topEdgeSwipeOffset"/><attr format="dimension" name="SL_bottomEdgeSwipeOffset"/><attr format="enum" name="SL_show_mode">
+            <enum name="lay_down" value="0"/>
+            <enum name="pull_out" value="1"/>
+        </attr><attr format="boolean" name="SL_clickToClose"/></declare-styleable><declare-styleable name="CircleIndicator"><attr format="dimension" name="ci_width"/><attr format="dimension" name="ci_height"/><attr format="dimension" name="ci_margin"/><attr format="enum" name="ci_orientation">
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr><attr name="ci_gravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr></declare-styleable><declare-styleable name="NumberProgressBar"><attr format="integer" name="NPB_current"/><attr format="integer" name="NPB_max"/><attr format="color" name="NPB_unreached_color"/><attr format="color" name="NPB_reached_color"/><attr format="dimension" name="NPB_reached_bar_height"/><attr format="dimension" name="NPB_unreached_bar_height"/><attr format="dimension" name="NPB_text_size"/><attr format="color" name="NPB_text_color"/><attr format="dimension" name="NPB_text_offset"/><attr format="enum" name="NPB_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr></declare-styleable><declare-styleable name="NineGridImageView"><attr format="dimension" name="singleImgSize"/><attr format="dimension" name="imgGap"/><attr format="integer" name="maxSize"/><attr format="enum" name="showStyle">
+            <enum name="grid" value="0"/>
+            <enum name="fill" value="1"/>
+        </attr></declare-styleable><declare-styleable name="GifView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable><declare-styleable name="Themes"><attr format="reference" name="SliderStyle"/><attr format="reference" name="PagerIndicatorStyle"/></declare-styleable><declare-styleable name="CustomNumberPick"><attr format="dimension" name="CNP_Width"/><attr format="dimension" name="CNP_Height"/><attr format="dimension" name="CNP_EditWidth"/><attr format="reference" name="CNP_AddDrawable"/><attr format="reference" name="CNP_EditDrawable"/><attr format="reference" name="CNP_ReduceDrawable"/></declare-styleable><declare-styleable name="ExpandablePanel"><attr format="reference" name="EP_handle"/><attr format="reference" name="EP_content"/><attr format="reference" name="EP_viewgroup"/><attr format="boolean" name="EP_isviewgroup"/><attr format="dimension" name="EP_collapsedHeight"/><attr format="integer" name="EP_animationDuration"/></declare-styleable><declare-styleable name="CalendarPickerView"><attr name="android:background"/><attr format="color" name="TS_dividerColor"/><attr format="reference" name="TS_dayBackground"/><attr format="color" name="TS_dayTextColor"/><attr format="color" name="TS_titleTextColor"/><attr format="boolean" name="TS_displayHeader"/><attr format="color" name="TS_headerTextColor"/></declare-styleable><declare-styleable name="AutofitTextView"><attr format="dimension" name="minTextSize"/><attr format="float" name="precision"/><attr format="boolean" name="sizeToFit"/></declare-styleable><declare-styleable name="ProgressWheel"><attr format="boolean" name="SAD_matProg_progressIndeterminate"/><attr format="color" name="SAD_matProg_barColor"/><attr format="color" name="SAD_matProg_rimColor"/><attr format="dimension" name="SAD_matProg_rimWidth"/><attr format="float" name="SAD_matProg_spinSpeed"/><attr format="integer" name="SAD_matProg_barSpinCycleTime"/><attr format="dimension" name="SAD_matProg_circleRadius"/><attr format="boolean" name="SAD_matProg_fillRadius"/><attr format="dimension" name="SAD_matProg_barWidth"/><attr format="boolean" name="SAD_matProg_linearProgress"/></declare-styleable><declare-styleable name="IconText"><attr name="android:text"/><attr format="dimension" name="IT_text_size"/><attr format="color" name="IT_text_selected_color"/><attr format="color" name="IT_text_unselected_color"/><attr format="boolean" name="IT_selected"/><attr format="color" name="IT_selected_color"/><attr format="color" name="IT_unselected_color"/><attr format="dimension" name="IT_padding"/><attr format="reference" name="IT_selected_icon"/><attr format="reference" name="IT_unselected_icon"/></declare-styleable><declare-styleable name="calendar_cell"><attr format="boolean" name="TS_state_selectable"/><attr format="boolean" name="TS_state_current_month"/><attr format="boolean" name="TS_state_today"/><attr format="boolean" name="TS_state_range_first"/><attr format="boolean" name="TS_state_range_middle"/><attr format="boolean" name="TS_state_range_last"/><attr format="boolean" name="TS_state_highlighted"/></declare-styleable><declare-styleable name="ExpandableLayout"><attr format="reference" name="EL_headerLayout"/><attr format="reference" name="EL_footerLayout"/><attr format="reference" name="EL_contentLayout"/><attr format="integer" name="EL_duration"/></declare-styleable><declare-styleable name="AnimateCheckBox"><attr format="color" name="ACB_unCheckColor"/><attr format="color" name="ACB_checkedColor"/><attr format="color" name="ACB_lineColor"/><attr format="dimension" name="ACB_lineWidth"/><attr format="integer" name="ACB_animDuration"/></declare-styleable><declare-styleable name="FlowLayout"><attr format="boolean" name="FL_auto_select_effect"/><attr format="integer" name="FL_max_select"/></declare-styleable><declare-styleable name="AccelerationProgress"><attr format="dimension" name="AP_ball_radius"/><attr format="dimension" name="AP_big_circle_stroke"/><attr format="color" name="AP_ball_background"/><attr format="color" name="AP_big_circle_background"/><attr format="integer" name="AP_duration"/><attr format="dimension" name="AP_text_size"/><attr format="color" name="AP_text_color"/></declare-styleable><declare-styleable name="RefreshProgress"><attr format="boolean" name="RP_seekAble"/></declare-styleable><declare-styleable name="CoolMenuFrameLayout"><attr format="enum" name="CFL_num">
+            <enum name="one" value="1"/>
+            <enum name="two" value="2"/>
+            <enum name="three" value="3"/>
+            <enum name="four" value="4"/>
+            <enum name="five" value="5"/>
+        </attr><attr format="dimension" name="CFL_titleSize"/><attr format="color" name="CFL_titleColor"/><attr format="reference" name="CFL_titleIcon"/></declare-styleable><declare-styleable name="SwipeToLoadLayout"><attr format="boolean" name="refresh_enabled"/><attr format="boolean" name="load_more_enabled"/><attr format="enum" name="swipe_style">
+            <enum name="classic" value="0"/>
+            <enum name="above" value="1"/>
+            <enum name="blew" value="2"/>
+            <enum name="scale" value="3"/>
+        </attr><attr format="dimension" name="refresh_trigger_offset"/><attr format="dimension" name="load_more_trigger_offset"/><attr format="dimension" name="refresh_final_drag_offset"/><attr format="dimension" name="load_more_final_drag_offset"/><attr format="integer" name="release_to_refreshing_scrolling_duration"/><attr format="integer" name="refresh_complete_delay_duration"/><attr format="integer" name="refresh_complete_to_default_scrolling_duration"/><attr format="integer" name="default_to_refreshing_scrolling_duration"/><attr format="integer" name="release_to_loading_more_scrolling_duration"/><attr format="integer" name="load_more_complete_delay_duration"/><attr format="integer" name="load_more_complete_to_default_scrolling_duration"/><attr format="integer" name="default_to_loading_more_scrolling_duration"/></declare-styleable><declare-styleable name="RippleView"><attr format="integer" name="RV_alpha"/><attr format="integer" name="RV_framerate"/><attr format="integer" name="RV_rippleDuration"/><attr format="integer" name="RV_zoomDuration"/><attr format="color" name="RV_color"/><attr format="boolean" name="RV_centered"/><attr format="enum" name="RV_type"> 
+            <enum name="simpleRipple" value="0"/>
+            <enum name="doubleRipple" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr><attr format="dimension" name="RV_ripplePadding"/><attr format="boolean" name="RV_zoom"/><attr format="float" name="RV_zoomScale"/></declare-styleable><declare-styleable name="CircularProgress"><attr format="dimension" name="CP_BorderWidth"/></declare-styleable><declare-styleable name="LikeButton"><attr format="string" name="LB_icon_type"/><attr format="dimension|reference" name="LB_icon_size"/><attr format="reference" name="LB_like_drawable"/><attr format="reference" name="LB_unlike_drawable"/><attr format="color|reference" name="LB_dots_primary_color"/><attr format="color|reference" name="LB_dots_secondary_color"/><attr format="color|reference" name="LB_circle_start_color"/><attr format="color|reference" name="LB_circle_end_color"/><attr format="boolean" name="LB_liked"/></declare-styleable><declare-styleable name="ScrollerNumberPicker"><attr format="color" name="SNP_normalTextColor"/><attr format="dimension" name="SNP_normalTextSize"/><attr format="color" name="SNP_selectedTextColor"/><attr format="dimension" name="SNP_selectedTextSize"/><attr format="dimension" name="SNP_unitHigh"/><attr format="integer" name="SNP_itemNumber"/><attr format="color" name="SNP_lineColor"/><attr format="dimension" name="SNP_maskHigh"/><attr format="boolean" name="SNP_noEmpty"/><attr format="boolean" name="SNP_isEnable"/></declare-styleable><declare-styleable name="MagicProgressBar"><attr format="float" name="mpb_percent"/><attr format="color" name="mpb_fill_color"/><attr format="color" name="mpb_background_color"/><attr format="boolean" name="mpb_flat"/></declare-styleable><declare-styleable name="SpotsDialog"><attr format="reference" name="SD_TitleAppearance"/><attr format="reference|string" name="SD_TitleText"/><attr format="integer" name="SD_SpotCount"/><attr format="reference" name="SD_Drawable"/></declare-styleable><declare-styleable name="NavigationTabBar"><attr format="boolean" name="ntb_titled"/><attr format="boolean" name="ntb_scaled"/><attr format="boolean" name="ntb_badged"/><attr format="boolean" name="ntb_badge_use_typeface"/><attr format="enum" name="ntb_title_mode">
+            <enum name="all" value="0"/>
+            <enum name="active" value="1"/>
+        </attr><attr format="enum" name="ntb_badge_position">
+            <enum name="left" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="right" value="2"/>
+        </attr><attr format="enum" name="ntb_badge_gravity">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+        </attr><attr format="string" name="ntb_typeface"/><attr format="dimension" name="ntb_corners_radius"/><attr format="integer" name="ntb_animation_duration"/><attr format="color" name="ntb_inactive_color"/><attr format="color" name="ntb_active_color"/><attr format="reference" name="ntb_preview_colors"/></declare-styleable><declare-styleable name="MaterialFavoriteButton"><attr format="boolean" name="mfb_animate_favorite"/><attr format="boolean" name="mfb_animate_unfavorite"/><attr format="integer" name="mfb_padding"/><attr format="integer" name="mfb_favorite_image"/><attr format="integer" name="mfb_not_favorite_image"/><attr format="integer" name="mfb_rotation_duration"/><attr format="integer" name="mfb_rotation_angle"/><attr format="integer" name="mfb_bounce_duration"/><attr format="enum" name="mfb_color">
+            <enum name="black" value="0"/>
+            <enum name="white" value="1"/>
+        </attr><attr format="enum" name="mfb_type">
+            <enum name="star" value="0"/>
+            <enum name="heart" value="1"/>
+        </attr></declare-styleable><declare-styleable name="MarqueeLayout"><attr format="integer" name="switchTime"/><attr format="integer" name="scrollTime"/><attr format="enum" name="orientation">
+            <enum name="up" value="1"/>
+            <enum name="down" value="2"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="4"/>
+        </attr><attr format="boolean" name="enableAlphaAnim"/><attr format="boolean" name="enableScaleAnim"/></declare-styleable><declare-styleable name="RoundedImageView"><attr format="dimension" name="RIV_corner_radius"/><attr format="dimension" name="RIV_border_width"/><attr format="color" name="RIV_border_color"/><attr format="boolean" name="RIV_mutate_background"/><attr format="boolean" name="RIV_oval"/><attr name="android:scaleType"/></declare-styleable><declare-styleable name="FreeGrowUpParentRelativeLayout"><attr format="dimension|reference" name="offset"/></declare-styleable><declare-styleable name="DropDownMenu"><attr format="color" name="DD_underlineColor"/><attr format="color" name="DD_dividerColor"/><attr format="color" name="DD_textSelectedColor"/><attr format="color" name="DD_textUnselectedColor"/><attr format="color" name="DD_menuBackgroundColor"/><attr format="color" name="DD_maskColor"/><attr format="dimension" name="DD_menuTextSize"/><attr format="reference" name="DD_menuSelectedIcon"/><attr format="reference" name="DD_menuUnselectedIcon"/></declare-styleable><declare-styleable name="GoogleCircleProgressView"><attr format="dimension" name="gcp_inner_radius"/><attr format="color" name="gcp_background_color"/><attr format="color" name="gcp_progress_color"/><attr format="dimension" name="gcp_progress_stoke_width"/><attr format="boolean" name="gcp_show_arrow"/><attr format="boolean" name="gcp_enable_circle_background"/><attr format="dimension" name="gcp_arrow_width"/><attr format="dimension" name="gcp_arrow_height"/><attr format="integer" name="gcp_progress"/><attr format="integer" name="gcp_max"/><attr format="dimension" name="gcp_progress_text_size"/><attr format="color" name="gcp_progress_text_color"/><attr format="enum" name="gcp_progress_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr></declare-styleable><declare-styleable name="Rotate3dAnimation"><attr format="enum" name="SAD_rollType">
+            <enum name="x" value="0"/>
+            <enum name="y" value="1"/>
+            <enum name="z" value="2"/>
+        </attr><attr format="float" name="SAD_fromDeg"/><attr format="float" name="SAD_toDeg"/><attr format="fraction" name="SAD_pivotX"/><attr format="fraction" name="SAD_pivotY"/></declare-styleable><declare-styleable name="NumberProgressBarThemes"><attr format="reference" name="numberProgressBarStyle"/></declare-styleable><declare-styleable name="RevealTextView"><attr format="integer" name="rtv_duration"/><attr name="android:text"/></declare-styleable><declare-styleable name="BGABadgeView"><attr format="reference|color" name="badge_bgColor"/><attr format="reference|color" name="badge_textColor"/><attr format="reference|dimension" name="badge_textSize"/><attr format="reference|dimension" name="badge_verticalMargin"/><attr format="reference|dimension" name="badge_horizontalMargin"/><attr format="reference|dimension" name="badge_padding"/><attr format="enum" name="badge_gravity">
+            <enum name="rightTop" value="0"/>
+            <enum name="rightCenter" value="1"/>
+            <enum name="rightBottom" value="2"/>
+        </attr><attr format="boolean" name="badge_dragable"/><attr format="boolean" name="badge_isResumeTravel"/><attr format="reference|dimension" name="badge_borderWidth"/><attr format="reference|color" name="badge_borderColor"/><attr format="reference|dimension" name="badge_dragExtra"/></declare-styleable><declare-styleable name="SwipyRefreshLayout"><attr name="SRL_direction">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+            <enum name="both" value="2"/>
+        </attr></declare-styleable><declare-styleable name="CustomTheme"><attr format="reference" name="gifViewStyle"/></declare-styleable><declare-styleable name="ProgressPieView"><attr name="android:text"/><attr name="android:textSize"/><attr name="android:textColor"/><attr format="integer" name="ppvProgress"/><attr format="integer" name="ppvMax"/><attr format="integer" name="ppvStartAngle"/><attr format="boolean" name="ppvInverted"/><attr format="boolean" name="ppvCounterclockwise"/><attr format="dimension" name="ppvStrokeWidth"/><attr format="reference|color" name="ppvBackgroundColor"/><attr format="reference|color" name="ppvProgressColor"/><attr format="reference|color" name="ppvStrokeColor"/><attr format="boolean" name="ppvShowStroke"/><attr format="boolean" name="ppvShowText"/><attr format="string" name="ppvTypeface"/><attr format="reference" name="ppvImage"/><attr format="enum" name="ppvProgressFillType">
+            <enum name="radial" value="0"/>
+            <enum name="center" value="1"/>
+        </attr></declare-styleable><declare-styleable name="PagerIndicator"><attr format="enum" name="visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr><attr format="enum" name="shape">
+            <enum name="oval" value="0"/>
+            <enum name="rect" value="1"/>
+        </attr><attr format="color" name="selected_color"/><attr format="color" name="unselected_color"/><attr format="reference" name="selected_drawable"/><attr format="reference" name="unselected_drawable"/><attr format="dimension" name="selected_width"/><attr format="dimension" name="selected_height"/><attr format="dimension" name="unselected_width"/><attr format="dimension" name="unselected_height"/><attr format="dimension" name="padding_left"/><attr format="dimension" name="padding_right"/><attr format="dimension" name="padding_top"/><attr format="dimension" name="padding_bottom"/><attr format="dimension" name="selected_padding_left"/><attr format="dimension" name="selected_padding_right"/><attr format="dimension" name="selected_padding_top"/><attr format="dimension" name="selected_padding_bottom"/><attr format="dimension" name="unselected_padding_left"/><attr format="dimension" name="unselected_padding_right"/><attr format="dimension" name="unselected_padding_top"/><attr format="dimension" name="unselected_padding_bottom"/></declare-styleable><declare-styleable name="PullToNextLayout"><attr format="color" name="underLayoutColor"/><attr format="integer" name="topType"/></declare-styleable><declare-styleable name="CoolSwitch"><attr format="reference" name="CS_enabledView"/><attr format="reference" name="CS_disabledView"/></declare-styleable><declare-styleable name="MutiProgress"><attr format="integer" name="nodesNum"/><attr format="dimension" name="nodeRadius"/><attr format="reference" name="progressingDrawable"/><attr format="reference" name="unprogressingDrawable"/><attr format="reference" name="progresFailDrawable"/><attr format="reference" name="progresSuccDrawable"/><attr format="color" name="processingLineColor"/><attr format="integer" name="currNodeNO"/><attr format="integer" name="currNodeState"/></declare-styleable><declare-styleable name="CounterView"><attr format="string" name="prefix"/><attr format="string" name="suffix"/><attr format="float" name="timeInterval"/><attr format="float" name="incrementValue"/><attr format="float" name="startValue"/><attr format="float" name="endValue"/><attr format="boolean" name="formatText"/><attr format="boolean" name="autoStart"/><attr format="enum" name="type">
+            <enum name="integer" value="0"/>
+            <enum name="decimal" value="1"/>
+            <enum name="both" value="2"/>
+        </attr><attr name="android:text"/></declare-styleable></configuration></mergedItems></merger>

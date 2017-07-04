@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+
+    <!-- SelectDate日期选择器 -->
+    <string-array name="date">
+        <item>年</item>
+        <item>月</item>
+        <item>日</item>
+    </string-array>
+
+    <!--SweetAlertDialog-->
+    <string name="dialog_default_title">标题</string>
+    <string name="dialog_ok">确认</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="LOADING">加载中…</string>
+
+    <!-- TimeSquare日历-->
+    <string name="day_name_format">EEE</string>
+    <string name="invalid_date"> 选择的日期必须在 %1$s 和 %2$s 之间.</string>
+    <string name="month_name_format">MMMM yyyy</string>
+
+    <!-- PullToNext显示的提示信息 -->
+    <string-array name="pullToNextViewStates">
+        <item>没有更多信息</item>
+        <item>放手查看下一个</item>
+        <item>上拉查看下一个</item>
+        <item>已经是第一个了</item>
+        <item>放手查看前一个</item>
+        <item>下拉查看前一个</item>
+    </string-array>
+
+    <!-- TimeSinceTextView -->
+    <string name="timespan_now">刚刚</string>
+    <plurals name="timespan_years">
+        <item quantity="other">%d年前</item>
+    </plurals>
+    <plurals name="timespan_months">
+        <item quantity="other">%d个月前</item>
+    </plurals>
+    <plurals name="timespan_weeks">
+        <item quantity="other">%d周前</item>
+    </plurals>
+    <plurals name="timespan_days">
+        <item quantity="other">%d天前</item>
+    </plurals>
+    <plurals name="timespan_hours">
+        <item quantity="other">%d小时前</item>
+    </plurals>
+    <plurals name="timespan_minutes">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+    <plurals name="timespan_seconds">
+        <item quantity="other">%d秒前</item>
+    </plurals>
+    <plurals name="timespan_years_abbr">
+        <item quantity="other">%d年</item>
+    </plurals>
+    <plurals name="timespan_months_abbr">
+        <item quantity="other">%d月</item>
+    </plurals>
+    <plurals name="timespan_weeks_abbr">
+        <item quantity="other">%d周</item>
+    </plurals>
+    <plurals name="timespan_days_abbr">
+        <item quantity="other">%d天</item>
+    </plurals>
+    <plurals name="timespan_hours_abbr">
+        <item quantity="other">%d小时</item>
+    </plurals>
+    <plurals name="timespan_minutes_abbr">
+        <item quantity="other">%d分钟</item>
+    </plurals>
+    <plurals name="timespan_seconds_abbr">
+        <item quantity="other">%d秒</item>
+    </plurals>
+
+    <!-- Picker -->
+    <string name="progress_title">加载中..</string>
+    <string name="done">完成</string>
+    <string-array name="tab_titles">
+        <item>拍照</item>
+        <item>图片</item>
+    </string-array>
+    <string name="toolbar_title">选择图片</string>
+    <string name="no_image">没有图片</string>
+    <string name="selected_image">选中的图片</string>
+    <string name="max_count_msg">%1$d 张图片已选中</string>
+    <string name="min_count_msg">您至少需选中 %1$d 张图片</string>
+    <string name="focusing">请稍后</string>
+    <string name="default_directory">图片</string>
+
+    <!-- NavigationTabBar -->
+    <string-array name="default_preview">
+        <item>#df5a55</item>
+        <item>#f9bb72</item>
+        <item>#76afcf</item>
+        <item>#dd6495</item>
+        <item>#72d3b4</item>
+    </string-array>
+</resources>

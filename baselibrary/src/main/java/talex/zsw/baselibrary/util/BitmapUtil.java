@@ -1,0 +1,945 @@
+package talex.zsw.baselibrary.util;
+
+import android.annotation.SuppressLint;
+import android.content.Context;
+import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.graphics.Matrix;
+import android.graphics.Paint;
+import android.graphics.PixelFormat;
+import android.graphics.PorterDuff;
+import android.graphics.PorterDuffXfermode;
+import android.graphics.Rect;
+import android.graphics.RectF;
+import android.graphics.drawable.BitmapDrawable;
+import android.graphics.drawable.Drawable;
+import android.net.Uri;
+import android.os.Build;
+import android.renderscript.Allocation;
+import android.renderscript.Element;
+import android.renderscript.RenderScript;
+import android.renderscript.ScriptIntrinsicBlur;
+import android.util.Base64;
+import android.util.Log;
+import android.view.View;
+import android.view.ViewTreeObserver;
+import android.widget.ImageView;
+
+import java.io.BufferedOutputStream;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+
+import static android.content.ContentValues.TAG;
+
+/**
+ * 项目名称: BaseLibrary
+ * 作用: 通用的Bitmap处理类
+ * 作者: XNN  
+ * 日期: 2015-09-10-0010 9:27 
+ * 修改人：
+ * 修改时间：
+ * 修改备注：
+ */
+@SuppressWarnings("ALL") public class BitmapUtil
+{
+
+	/**
+	 * 下载图片
+	 *
+	 * @param url 图片地址
+	 */
+	public static Bitmap getBitmapByUrl(String url)
+	{
+		Bitmap bitmap = null;
+		try
+		{
+			URL url2 = new URL(url);
+			HttpURLConnection httpURLConnection = (HttpURLConnection) url2.openConnection();
+			httpURLConnection.setReadTimeout(3000);
+			int code = httpURLConnection.getResponseCode();
+			if (code == 200)
+			{
+				bitmap = BitmapFactory.decodeStream(httpURLConnection.getInputStream());
+			}
+		} catch (Exception e)
+		{
+			e.printStackTrace();
+		}
+		return bitmap;
+	}
+
+	/**
+	 * bitmap转为base64
+	 *
+	 * @param bitmap 图片
+	 * @return
+	 */
+	public static String bitmapToBase64(Bitmap bitmap)
+	{
+
+		String result = null;
+		ByteArrayOutputStream baos = null;
+		try
+		{
+			if (bitmap != null)
+			{
+				baos = new ByteArrayOutputStream();
+				bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+
+				baos.flush();
+				baos.close();
+
+				byte[] bitmapBytes = baos.toByteArray();
+				result = Base64.encodeToString(bitmapBytes, Base64.DEFAULT);
+			}
+		} catch (IOException e)
+		{
+			e.printStackTrace();
+		} finally
+		{
+			try
+			{
+				if (baos != null)
+				{
+					baos.flush();
+					baos.close();
+				}
+			} catch (IOException e)
+			{
+				e.printStackTrace();
+			}
+		}
+		return result;
+	}
+
+	/**
+	 * base64转为bitmap
+	 *
+	 * @param base64Data base64的图片字符串
+	 * @return
+	 */
+	public static Bitmap base64ToBitmap(String base64Data)
+	{
+		byte[] bytes = Base64.decode(base64Data, Base64.DEFAULT);
+		return BitmapFactory.decodeByteArray(bytes, 0, bytes.length);
+	}
+
+
+	/**
+	 * 将Bytes转换成 Bitmap
+	 */
+	public static Bitmap getPicFromBytes(byte[] bytes, BitmapFactory.Options opts)
+	{
+		if (bytes != null)
+		{
+			if (opts != null)
+			{
+				return BitmapFactory.decodeByteArray(bytes, 0, bytes.length, opts);
+			}
+			else
+			{
+				return BitmapFactory.decodeByteArray(bytes, 0, bytes.length);
+			}
+		}
+		return null;
+	}
+
+	/**
+	 * 将bitmap转换成byte[]
+	 */
+	public static byte[] Bitmap2Bytes(Bitmap bm)
+	{
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		bm.compress(Bitmap.CompressFormat.PNG, 100, baos);
+		return baos.toByteArray();
+	}
+
+	/**
+	 * 缩放图片
+	 */
+	public static Bitmap zoomBitmap(Bitmap bitmap, int w, int h)
+	{
+		int width = bitmap.getWidth();
+		int height = bitmap.getHeight();
+
+		float scaleWidth = 1.0f, scaleHeight = 1.0f;
+		if (width > w && height > h)
+		{
+			scaleWidth = ((float) w / width);
+			scaleHeight = ((float) h / height);
+			if (scaleHeight > scaleWidth)
+			{
+				scaleWidth = scaleHeight;
+			}
+			else
+			{
+				scaleHeight = scaleWidth;
+			}
+		}
+
+		Matrix matrix = new Matrix();
+		matrix.postScale(scaleWidth, scaleHeight);
+		Bitmap newBmp = Bitmap.createBitmap(bitmap, 0, 0, width, height, matrix, true);
+
+		return newBmp;
+	}
+
+	/**
+	 * 将byte写入文件
+	 */
+	public static File getFileFromBytes(byte[] b, String outputFile)
+	{
+		BufferedOutputStream stream = null;
+		File file = null;
+		try
+		{
+			file = new File(outputFile);
+			FileOutputStream fstream = new FileOutputStream(file);
+			stream = new BufferedOutputStream(fstream);
+			stream.write(b);
+		} catch (Exception e)
+		{
+			e.printStackTrace();
+		} finally
+		{
+			if (stream != null)
+			{
+				try
+				{
+					stream.close();
+				} catch (IOException e1)
+				{
+					e1.printStackTrace();
+				}
+			}
+		}
+		return file;
+	}
+
+	/**
+	 * 调用系统方法裁剪图片
+	 *
+	 * @param uri     图片地址
+	 * @param aspectX 宽高比例
+	 * @param aspectY 宽高比例
+	 * @param outputX 图片的宽高
+	 * @param outputY 图片的宽高
+	 */
+	public static void startPhotoZoom(Context context, Uri uri, int aspectX, int aspectY,
+									  int outputX, int outputY)
+	{
+		Intent intent = new Intent("com.android.camera.action.CROP");
+		intent.setDataAndType(uri, "image/*");
+		// crop为true是设置在开启的intent中设置显示的view可以剪裁
+		intent.putExtra("crop", "true");
+
+		// aspectX aspectY 是宽高的比例
+		intent.putExtra("aspectX", 1);
+		intent.putExtra("aspectY", 1);
+
+		// outputX,outputY 是剪裁图片的宽高
+		intent.putExtra("outputX", outputX);
+		intent.putExtra("outputY", outputY);
+		intent.putExtra("return-data", true);
+		//		((Activity)context).startActivityForResult(intent, PHOTO_REQUEST_CUT);
+	}
+
+	/**
+	 * 将图片变成圆角
+	 */
+	public static Bitmap toRoundCorner(Bitmap bitmap, int pixels)
+	{
+		Bitmap output =
+			Bitmap.createBitmap(bitmap.getWidth(), bitmap.getHeight(), Bitmap.Config.ARGB_8888);
+		Canvas canvas = new Canvas(output);
+
+		final int color = 0xff424242;
+		final Paint paint = new Paint();
+		final Rect rect = new Rect(0, 0, bitmap.getWidth(), bitmap.getHeight());
+		final RectF rectF = new RectF(rect);
+		final float roundPx = pixels;
+
+		paint.setAntiAlias(true);
+		canvas.drawARGB(0, 0, 0, 0);
+		paint.setColor(color);
+		canvas.drawRoundRect(rectF, roundPx, roundPx, paint);
+
+		paint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.SRC_IN));
+		canvas.drawBitmap(bitmap, rect, rect, paint);
+
+		return output;
+	}
+
+	/**
+	 * 获取圆形头像
+	 */
+	public static Bitmap getRoundedCornerBitmap(Bitmap bitmap)
+	{
+		Bitmap outBitmap =
+			Bitmap.createBitmap(bitmap.getWidth(), bitmap.getHeight(), Bitmap.Config.ARGB_8888);
+		Canvas canvas = new Canvas(outBitmap);
+		final int color = 0xff424242;
+		final Paint paint = new Paint();
+		final Rect rect = new Rect(0, 0, bitmap.getWidth(), bitmap.getHeight());
+		final RectF rectF = new RectF(rect);
+		final float roundPX = bitmap.getWidth() / 2;
+		paint.setAntiAlias(true);
+		canvas.drawARGB(0, 0, 0, 0);
+		paint.setColor(color);
+		canvas.drawRoundRect(rectF, roundPX, roundPX, paint);
+		paint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.SRC_IN));
+		canvas.drawBitmap(bitmap, rect, rect, paint);
+		return outBitmap;
+	}
+
+	/**
+	 * 从网络获取图片
+	 */
+	public static Bitmap getWebPicture(String urlStr)
+	{
+		Bitmap bitmap = null;
+		try
+		{
+			URL url = new URL(urlStr);
+			HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+			conn.setRequestMethod("GET");
+			conn.setConnectTimeout(5000);
+			conn.connect();
+			InputStream is = conn.getInputStream();
+			byte[] buffer = new byte[1024];
+			int len = 0;
+			ByteArrayOutputStream bos = new ByteArrayOutputStream();
+			while ((len = is.read(buffer)) != -1)
+			{
+				bos.write(buffer, 0, len);
+			}
+			byte[] data = bos.toByteArray();
+			bitmap = BitmapFactory.decodeByteArray(data, 0, data.length);
+			bos.close();
+			is.close();
+		} catch (MalformedURLException e)
+		{
+			e.printStackTrace();
+		} catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+		return bitmap;
+	}
+
+	/**
+	 * 将View转换成Bitmp
+	 */
+	public static Bitmap convertViewToBitmap(View view)
+	{
+		view.measure(View.MeasureSpec.makeMeasureSpec(0, View.MeasureSpec.UNSPECIFIED),
+			View.MeasureSpec.makeMeasureSpec(0, View.MeasureSpec.UNSPECIFIED));
+		view.layout(0, 0, view.getMeasuredWidth(), view.getMeasuredHeight());
+		view.buildDrawingCache();
+		Bitmap bitmap = view.getDrawingCache();
+		return bitmap;
+	}
+
+
+	/**
+	 * 将一个image,做成毛玻璃再设置给view
+	 *
+	 * @param image
+	 * @param view
+	 * @param context
+	 */
+	public static void applyBlur(final ImageView image, final View view, final Context context)
+	{
+		image.getViewTreeObserver().addOnPreDrawListener(new ViewTreeObserver.OnPreDrawListener()
+		{
+			@Override public boolean onPreDraw()
+			{
+				image.getViewTreeObserver().removeOnPreDrawListener(this);
+				image.buildDrawingCache();
+
+				Bitmap bmp = image.getDrawingCache();
+				blur(bmp, view, true, context);
+				return true;
+			}
+		});
+	}
+
+	public static void blur(Bitmap bkg, View view, boolean scale, Context context)
+	{
+		try
+		{
+			long startMs = System.currentTimeMillis();
+			float scaleFactor = 1;
+			float radius = 20;
+			if (scale)
+			{
+				scaleFactor = 8;
+				radius = 2;
+			}
+
+			Bitmap overlay = Bitmap.createBitmap((int) (view.getMeasuredWidth() / scaleFactor),
+				(int) (view.getMeasuredHeight() / scaleFactor), Bitmap.Config.ARGB_8888);
+			Canvas canvas = new Canvas(overlay);
+			canvas.translate(-view.getLeft() / scaleFactor, -view.getTop() / scaleFactor);
+			canvas.scale(1 / scaleFactor, 1 / scaleFactor);
+			Paint paint = new Paint();
+			paint.setFlags(Paint.FILTER_BITMAP_FLAG);
+			canvas.drawBitmap(bkg, 0, 0, paint);
+
+			overlay = FastBlur.doBlur(overlay, (int) radius, true);
+			view.setBackgroundDrawable(new BitmapDrawable(context.getResources(), overlay));
+		} catch (Exception ignored)
+		{
+
+		}
+	}
+
+	/**
+	 * Drawable转换成Bitmap
+	 */
+	public static Bitmap drawableToBitamp(Drawable drawable)
+	{
+		Bitmap bitmap;
+		int w = drawable.getIntrinsicWidth();
+		int h = drawable.getIntrinsicHeight();
+		if (w <= 0)
+		{
+			w = 10;
+		}
+		if (h <= 0)
+		{
+			h = 10;
+		}
+		System.out.println("Drawable转Bitmap");
+		Bitmap.Config config =
+			drawable.getOpacity() != PixelFormat.OPAQUE ? Bitmap.Config.ARGB_8888 :
+				Bitmap.Config.RGB_565;
+		bitmap = Bitmap.createBitmap(w, h, config);
+		//注意，下面三行代码要用到，否在在View或者surfaceview里的canvas.drawBitmap会看不到图
+		Canvas canvas = new Canvas(bitmap);
+		drawable.setBounds(0, 0, w, h);
+		drawable.draw(canvas);
+		return bitmap;
+	}
+
+	/**
+	 * 毛玻璃效果
+	 *
+	 * @param context    上下文
+	 * @param sentBitmap 要添加毛玻璃效果的图片
+	 * @param radius     毛玻璃的程度
+	 * @return 毛玻璃图片
+	 */
+	@SuppressLint("NewApi") public static Bitmap fastblur(Context context, Bitmap sentBitmap,
+														  int radius)
+	{
+		if (Build.VERSION.SDK_INT > 16)
+		{
+			Bitmap bitmap = sentBitmap.copy(sentBitmap.getConfig(), true);
+
+			final RenderScript rs = RenderScript.create(context);
+			final Allocation input = Allocation
+				.createFromBitmap(rs, sentBitmap, Allocation.MipmapControl.MIPMAP_NONE,
+					Allocation.USAGE_SCRIPT);
+			final Allocation output = Allocation.createTyped(rs, input.getType());
+			final ScriptIntrinsicBlur script = ScriptIntrinsicBlur.create(rs, Element.U8_4(rs));
+			script.setRadius(radius /* e.g. 3.f */);
+			script.setInput(input);
+			script.forEach(output);
+			output.copyTo(bitmap);
+			return bitmap;
+		}
+		else
+		{
+			Bitmap bitmap = sentBitmap.copy(sentBitmap.getConfig(), true);
+
+			if (radius < 1)
+			{
+				return (null);
+			}
+
+			int w = bitmap.getWidth();
+			int h = bitmap.getHeight();
+
+			int[] pix = new int[w * h];
+			//        Log.e("pix", w + " " + h + " " + pix.length);
+			bitmap.getPixels(pix, 0, w, 0, 0, w, h);
+
+			int wm = w - 1;
+			int hm = h - 1;
+			int wh = w * h;
+			int div = radius + radius + 1;
+
+			int r[] = new int[wh];
+			int g[] = new int[wh];
+			int b[] = new int[wh];
+			int rsum, gsum, bsum, x, y, i, p, yp, yi, yw;
+			int vmin[] = new int[Math.max(w, h)];
+
+			int divsum = (div + 1) >> 1;
+			divsum *= divsum;
+			int temp = 256 * divsum;
+			int dv[] = new int[temp];
+			for (i = 0; i < temp; i++)
+			{
+				dv[i] = (i / divsum);
+			}
+
+			yw = yi = 0;
+
+			int[][] stack = new int[div][3];
+			int stackpointer;
+			int stackstart;
+			int[] sir;
+			int rbs;
+			int r1 = radius + 1;
+			int routsum, goutsum, boutsum;
+			int rinsum, ginsum, binsum;
+
+			for (y = 0; y < h; y++)
+			{
+				rinsum = ginsum = binsum = routsum = goutsum = boutsum = rsum = gsum = bsum = 0;
+				for (i = -radius; i <= radius; i++)
+				{
+					p = pix[yi + Math.min(wm, Math.max(i, 0))];
+					sir = stack[i + radius];
+					sir[0] = (p & 0xff0000) >> 16;
+					sir[1] = (p & 0x00ff00) >> 8;
+					sir[2] = (p & 0x0000ff);
+					rbs = r1 - Math.abs(i);
+					rsum += sir[0] * rbs;
+					gsum += sir[1] * rbs;
+					bsum += sir[2] * rbs;
+					if (i > 0)
+					{
+						rinsum += sir[0];
+						ginsum += sir[1];
+						binsum += sir[2];
+					}
+					else
+					{
+						routsum += sir[0];
+						goutsum += sir[1];
+						boutsum += sir[2];
+					}
+				}
+				stackpointer = radius;
+
+				for (x = 0; x < w; x++)
+				{
+
+					r[yi] = dv[rsum];
+					g[yi] = dv[gsum];
+					b[yi] = dv[bsum];
+
+					rsum -= routsum;
+					gsum -= goutsum;
+					bsum -= boutsum;
+
+					stackstart = stackpointer - radius + div;
+					sir = stack[stackstart % div];
+
+					routsum -= sir[0];
+					goutsum -= sir[1];
+					boutsum -= sir[2];
+
+					if (y == 0)
+					{
+						vmin[x] = Math.min(x + radius + 1, wm);
+					}
+					p = pix[yw + vmin[x]];
+
+					sir[0] = (p & 0xff0000) >> 16;
+					sir[1] = (p & 0x00ff00) >> 8;
+					sir[2] = (p & 0x0000ff);
+
+					rinsum += sir[0];
+					ginsum += sir[1];
+					binsum += sir[2];
+
+					rsum += rinsum;
+					gsum += ginsum;
+					bsum += binsum;
+
+					stackpointer = (stackpointer + 1) % div;
+					sir = stack[(stackpointer) % div];
+
+					routsum += sir[0];
+					goutsum += sir[1];
+					boutsum += sir[2];
+
+					rinsum -= sir[0];
+					ginsum -= sir[1];
+					binsum -= sir[2];
+
+					yi++;
+				}
+				yw += w;
+			}
+			for (x = 0; x < w; x++)
+			{
+				rinsum = ginsum = binsum = routsum = goutsum = boutsum = rsum = gsum = bsum = 0;
+				yp = -radius * w;
+				for (i = -radius; i <= radius; i++)
+				{
+					yi = Math.max(0, yp) + x;
+
+					sir = stack[i + radius];
+
+					sir[0] = r[yi];
+					sir[1] = g[yi];
+					sir[2] = b[yi];
+
+					rbs = r1 - Math.abs(i);
+
+					rsum += r[yi] * rbs;
+					gsum += g[yi] * rbs;
+					bsum += b[yi] * rbs;
+
+					if (i > 0)
+					{
+						rinsum += sir[0];
+						ginsum += sir[1];
+						binsum += sir[2];
+					}
+					else
+					{
+						routsum += sir[0];
+						goutsum += sir[1];
+						boutsum += sir[2];
+					}
+
+					if (i < hm)
+					{
+						yp += w;
+					}
+				}
+				yi = x;
+				stackpointer = radius;
+				for (y = 0; y < h; y++)
+				{
+					// Preserve alpha channel: ( 0xff000000 & pix[yi] )
+					pix[yi] =
+						(0xff000000 & pix[yi]) | (dv[rsum] << 16) | (dv[gsum] << 8) | dv[bsum];
+
+					rsum -= routsum;
+					gsum -= goutsum;
+					bsum -= boutsum;
+
+					stackstart = stackpointer - radius + div;
+					sir = stack[stackstart % div];
+
+					routsum -= sir[0];
+					goutsum -= sir[1];
+					boutsum -= sir[2];
+
+					if (x == 0)
+					{
+						vmin[y] = Math.min(y + r1, hm) * w;
+					}
+					p = x + vmin[y];
+
+					sir[0] = r[p];
+					sir[1] = g[p];
+					sir[2] = b[p];
+
+					rinsum += sir[0];
+					ginsum += sir[1];
+					binsum += sir[2];
+
+					rsum += rinsum;
+					gsum += ginsum;
+					bsum += binsum;
+
+					stackpointer = (stackpointer + 1) % div;
+					sir = stack[stackpointer];
+
+					routsum += sir[0];
+					goutsum += sir[1];
+					boutsum += sir[2];
+
+					rinsum -= sir[0];
+					ginsum -= sir[1];
+					binsum -= sir[2];
+
+					yi += w;
+				}
+			}
+			//        Log.e("pix", w + " " + h + " " + pix.length);
+			bitmap.setPixels(pix, 0, w, 0, 0, w, h);
+			return (bitmap);
+		}
+	}
+
+	public static Bitmap getBitmapFromUri(Uri uri, Context context)
+	{
+		InputStream input = null;
+		Bitmap bitmap = null;
+		try
+		{
+			input = context.getContentResolver().openInputStream(uri);
+			BitmapFactory.Options onlyBoundsOptions = new BitmapFactory.Options();
+			onlyBoundsOptions.inJustDecodeBounds = true;
+			onlyBoundsOptions.inDither = true;//optional
+			onlyBoundsOptions.inPreferredConfig = Bitmap.Config.ARGB_8888;//optional
+			BitmapFactory.decodeStream(input, null, onlyBoundsOptions);
+			input.close();
+			int originalWidth = onlyBoundsOptions.outWidth;
+			int originalHeight = onlyBoundsOptions.outHeight;
+			if ((originalWidth == -1) || (originalHeight == -1))
+			{
+				return null;
+			}
+			//图片分辨率以480x800为标准
+			float hh = 800f;//这里设置高度为800f
+			float ww = 480f;//这里设置宽度为480f
+			//缩放比。由于是固定比例缩放，只用高或者宽其中一个数据进行计算即可
+			int be = 1;//be=1表示不缩放
+			if (originalWidth > originalHeight && originalWidth > ww)
+			{//如果宽度大的话根据宽度固定大小缩放
+				be = (int) (originalWidth / ww);
+			}
+			else if (originalWidth < originalHeight && originalHeight > hh)
+			{//如果高度高的话根据宽度固定大小缩放
+				be = (int) (originalHeight / hh);
+			}
+			if (be <= 0)
+			{
+				be = 1;
+			}
+			//比例压缩
+			BitmapFactory.Options bitmapOptions = new BitmapFactory.Options();
+			bitmapOptions.inSampleSize = be;//设置缩放比例
+			bitmapOptions.inDither = true;//optional
+			bitmapOptions.inPreferredConfig = Bitmap.Config.ARGB_8888;//optional
+			input = context.getContentResolver().openInputStream(uri);
+			bitmap = BitmapFactory.decodeStream(input, null, bitmapOptions);
+			input.close();
+		} catch (FileNotFoundException e)
+		{
+			e.printStackTrace();
+		} catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+		return compressImage(bitmap);//再进行质量压缩
+	}
+
+	/**
+	 * 从Uri中获取图片并重新设置图片的最大尺寸
+	 *
+	 * @param uri       图片的Uri
+	 * @param maxHeight 目标图片的最大高
+	 * @param maxWidth  目标图片的最大宽
+	 */
+	public static Bitmap getBitmapFromUri(Uri uri, Context context, int maxHeight, int maxWidth)
+	{
+		return zoomBitmap(getBitmapFromUri(uri, context), maxWidth, maxHeight);
+	}
+
+
+	/**
+	 * 重新计算图片的最大尺寸
+	 *
+	 * @param src 图片
+	 * @param max 最大尺寸
+	 * @return
+	 */
+	public static Bitmap resizeBitmap(Bitmap src, int max)
+	{
+		if (src == null)
+		{
+			return null;
+		}
+
+		int width = src.getWidth();
+		int height = src.getHeight();
+		float rate = 0.0f;
+
+		if (width > height)
+		{
+			rate = max / (float) width;
+			height = (int) (height * rate);
+			width = max;
+		}
+		else
+		{
+			rate = max / (float) height;
+			width = (int) (width * rate);
+			height = max;
+		}
+
+		return Bitmap.createScaledBitmap(src, width, height, true);
+	}
+
+	/**
+	 * 旋转图片
+	 *
+	 * @param bitmap  图片
+	 * @param degrees 角度
+	 * @return
+	 */
+	public static Bitmap rotate(Bitmap bitmap, int degrees)
+	{
+		if (degrees != 0 && bitmap != null)
+		{
+			Matrix m = new Matrix();
+			m.setRotate(degrees, (float) bitmap.getWidth() / 2, (float) bitmap.getHeight() / 2);
+
+			try
+			{
+				Bitmap converted = Bitmap
+					.createBitmap(bitmap, 0, 0, bitmap.getWidth(), bitmap.getHeight(), m, true);
+				if (bitmap != converted)
+				{
+					bitmap.recycle();
+					bitmap = converted;
+				}
+			} catch (OutOfMemoryError ex)
+			{
+				// 메모리가 부족하여 회전을 시키지 못할 경우 그냥 원본을 반환합니다.
+			}
+		}
+		return bitmap;
+	}
+
+	/**
+	 * 按指定宽高截取中间一段图片
+	 *
+	 * @param src 图片
+	 * @param w   宽
+	 * @param h   高
+	 */
+	public static Bitmap cropCenterBitmap(Bitmap src, int w, int h)
+	{
+		if (src == null)
+		{
+			return null;
+		}
+		int width = src.getWidth();
+		int height = src.getHeight();
+		if (width < w && height < h)
+		{
+			return src;
+		}
+		int x = 0;
+		int y = 0;
+		if (width > w)
+		{
+			x = (width - w) / 2;
+		}
+		if (height > h)
+		{
+			y = (height - h) / 2;
+		}
+		int cw = w; // crop width
+		int ch = h; // crop height
+		if (w > width)
+		{
+			cw = width;
+		}
+		if (h > height)
+		{
+			ch = height;
+		}
+		return Bitmap.createBitmap(src, x, y, cw, ch);
+	}
+
+	public static File saveBitmap(Bitmap bm, String fileName)
+	{
+		Log.e(TAG, "保存图片");
+		File dirFile = new File("/sdcard/cache/");
+		if (!dirFile.exists())
+		{
+			dirFile.mkdir();
+		}
+		File f = new File("/sdcard/cache/", fileName);
+		if (f.exists())
+		{
+			f.delete();
+		}
+		else
+		{
+			try
+			{
+				f.createNewFile();
+			} catch (IOException e)
+			{
+			}
+		}
+		try
+		{
+			FileOutputStream out = new FileOutputStream(f);
+			bm.compress(Bitmap.CompressFormat.PNG, 90, out);
+			out.flush();
+			out.close();
+			Log.i(TAG, "已经保存");
+		} catch (FileNotFoundException e)
+		{
+			e.printStackTrace();
+		} catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+		return f;
+	}
+
+	public static InputStream Bitmap2IS(Bitmap bm)
+	{
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		bm.compress(Bitmap.CompressFormat.JPEG, 50, baos);
+		InputStream sbs = new ByteArrayInputStream(baos.toByteArray());
+		return sbs;
+	}
+
+	public static final String ANDROID_RESOURCE = "android.resource://";
+	public static final String FOREWARD_SLASH = "/";
+
+	/**
+	 * 将资源ID转为Uri
+	 *
+	 * @param context    上限文
+	 * @param resourceId 资源id
+	 */
+	public static Uri resourceIdToUri(Context context, int resourceId)
+	{
+		return Uri.parse(ANDROID_RESOURCE + context.getPackageName() + FOREWARD_SLASH + resourceId);
+	}
+
+	public static File saveFileZIP(Bitmap bm, String fileName, int max)
+	{
+		return saveBitmap(resizeBitmap(bm, max), fileName);
+	}
+
+	public static File saveFileZIP(Uri uri, String fileName, Context context)
+	{
+		return saveBitmap(getBitmapFromUri(uri, context), fileName);
+	}
+
+	public static Bitmap compressImage(Bitmap image)
+	{
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		image.compress(Bitmap.CompressFormat.JPEG, 100, baos);//质量压缩方法，这里100表示不压缩，把压缩后的数据存放到baos中
+		int options = 100;
+		while (baos.toByteArray().length / 1024 > 150)
+		{//循环判断如果压缩后图片是否大于100kb,大于继续压缩
+			baos.reset();//重置baos即清空baos
+			options -= 10;//每次都减少10
+			image.compress(Bitmap.CompressFormat.JPEG, options, baos);//这里压缩options%，把压缩后的数据存放到baos中
+		}
+		ByteArrayInputStream isBm =
+			new ByteArrayInputStream(baos.toByteArray());//把压缩后的数据baos存放到ByteArrayInputStream中
+		Bitmap bitmap = BitmapFactory.decodeStream(isBm, null, null);//把ByteArrayInputStream数据生成图片
+		return bitmap;
+	}
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\bundles\\debug\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            }
+        ]
+    }
+]

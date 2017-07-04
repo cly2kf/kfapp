@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\drop_down_unselected_icon.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\mipmap-xhdpi\\drop_down_unselected_icon.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\drop_down_checked.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\mipmap-xhdpi\\drop_down_checked.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\drop_down_selected_icon.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\mipmap-xhdpi\\drop_down_selected_icon.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\qq_refresh_success.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\mipmap-xhdpi\\qq_refresh_success.png"
+    }
+]

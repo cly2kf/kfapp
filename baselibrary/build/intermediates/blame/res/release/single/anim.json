@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\flip_horizontal_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\flip_horizontal_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_slide_in_right.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\scale_translate_rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\scale_translate_rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\push_up_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\dd_mask_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\dd_mask_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\left_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetalert_error_x_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetalert_error_x_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\pophidden_anim.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\zoom_enter.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\zoom_enter.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\drawroll_ani_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\drawroll_ani_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\mi_laucher_del_done.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\mi_laucher_del_done.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9998fa060445ff08c7df6971f12f7783194c7a37\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\right_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\path2_rotate_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\path2_rotate_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha_rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha_rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\appear_top_left_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\appear_top_left_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\animator.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\animator.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\appear_top_left_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\appear_top_left_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\drawroll_ani_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\drawroll_ani_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\welcome_keep.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\welcome_keep.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha_scale_rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha_scale_rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_fb_slide_out_from_right.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_fb_slide_out_from_right.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\mi_laucher_alpha.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\mi_laucher_alpha.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\disappear_bottom_right_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\disappear_bottom_right_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_left.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9998fa060445ff08c7df6971f12f7783194c7a37\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha_scale_translate_rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha_scale_translate_rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_slide_out_right.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\dialog_dismiss.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\dialog_dismiss.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_up_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\slide_up_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\in_scale_x.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\in_scale_x.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_fade_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\dialog_show.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\dialog_show.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\dd_menu_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\dd_menu_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\rbm_in_from_left.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\rbm_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_fade_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha_scale.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha_scale.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9998fa060445ff08c7df6971f12f7783194c7a37\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\dd_menu_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\dd_menu_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\small_2_big.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\small_2_big.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\mi_laucher_scale_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\mi_laucher_scale_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_slide_in_left.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\hyperspace_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\hyperspace_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\myanimation_set.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\myanimation_set.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\fadein.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\list_gridanim_bottom.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\list_gridanim_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_slide_in_bottom.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\rotate_down.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\rotate_down.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\translate_rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\translate_rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\fade.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\twinkle.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\twinkle.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_fb_slide_in_from_left.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_fb_slide_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\mi_laucher_scale_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\mi_laucher_scale_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_unzoom_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_unzoom_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\welcome_fade_in_scale.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\welcome_fade_in_scale.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_staty.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_staty.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\welcome_fade_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\welcome_fade_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\a2.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\a2.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\push_up_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\rbm_out_to_left.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\rbm_out_to_left.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\myown_design.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\myown_design.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9998fa060445ff08c7df6971f12f7783194c7a37\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetalert_error_frame_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetalert_error_frame_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetsheet_item_duang_show2.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetsheet_item_duang_show2.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\appear_bottom_right_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\appear_bottom_right_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\animator_set.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\animator_set.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\mi_laucher_del_up.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\mi_laucher_del_up.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\empty_shake.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\empty_shake.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\zoom_exit.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\zoom_exit.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\unzoom_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\unzoom_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\flip_vertical_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\flip_vertical_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\rotate_up.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\rotate_up.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9998fa060445ff08c7df6971f12f7783194c7a37\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha_scale_translate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha_scale_translate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\in_translate_top.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\in_translate_top.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\refreshable_list_rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\refreshable_list_rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottom.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_fade_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_fade_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\disappear_top_left_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\disappear_top_left_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\left_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\flip_horizontal_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\flip_horizontal_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha_translate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha_translate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetsheet_rv_layout_animation.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetsheet_rv_layout_animation.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\push_left_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_right.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_slide_out_left.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\scale_translate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\scale_translate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\right_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\hold.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\my_alpha_action.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\my_alpha_action.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetsheet_item_duang_show.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetsheet_item_duang_show.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\activity_slide_out_top.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\activity_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\color_animator.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\color_animator.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_fb_slide_out_from_left.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_fb_slide_out_from_left.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\layout_small_2_big.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\layout_small_2_big.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9998fa060445ff08c7df6971f12f7783194c7a37\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\path2_rotate_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\path2_rotate_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\welcome_fade_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\welcome_fade_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_top.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\scale_rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\scale_rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_fb_slide_in_from_right.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_fb_slide_in_from_right.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\out_translate_top.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\out_translate_top.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\object_animator.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\object_animator.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\unzoom_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\unzoom_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetalert_modal_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetalert_modal_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\a1.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\a1.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\cycle_7.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\push_left_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\my_scale_action.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\my_scale_action.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\list_lineanim_bottom.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\list_lineanim_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\disappear_bottom_right_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\disappear_bottom_right_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetalert_success_bow_roate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetalert_success_bow_roate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\menu_up.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\menu_up.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\hyperspace_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\hyperspace_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\disappear_top_left_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\disappear_top_left_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\mi_laucher_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\mi_laucher_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\block_move_right.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\block_move_right.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\appear_bottom_right_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\appear_bottom_right_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\flip_vertical_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\flip_vertical_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\translate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha_translate_rotate.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha_translate_rotate.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\scale.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetalert_success_mask_layout.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetalert_success_mask_layout.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\popshow_anim.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\list_bottom.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\list_bottom.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\sweetalert_modal_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\sweetalert_modal_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\wave_scale.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\wave_scale.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_down_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\slide_down_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\mi_laucher_del_down.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\mi_laucher_del_down.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_down_out.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\slide_down_out.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\gallery_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\gallery_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\dd_mask_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\dd_mask_in.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\release\\anim\\alpha_in.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\anim\\alpha_in.xml"
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_white_24dp.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_star_white_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0036.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0036.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_white_bottom_right.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\btn_white_bottom_right.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0037.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0037.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0006.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0006.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_border_black_24dp.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_favorite_black_24dp.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_white_bottom_c.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\bg_white_bottom_c.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0022.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0022.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0007.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0007.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0004.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0004.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0018.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0018.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0023.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0023.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0020.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0020.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0011.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0011.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0050.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0050.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0017.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0017.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sparkle.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\sparkle.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0039.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0039.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0034.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0034.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0002.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0002.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fire_smoke.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\fire_smoke.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0033.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0033.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_favorite_white_24dp.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_favorite_white_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_error.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0049.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0049.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0040.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0040.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0024.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0024.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0021.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0021.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0005.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0005.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0008.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0008.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0027.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0027.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0046.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0046.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0043.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0043.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0000.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0000.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0028.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0028.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0045.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0045.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0031.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0031.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0044.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0044.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_border_white_24dp.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_star_border_white_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0029.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0029.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_favorite_border_black_24dp.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0014.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0014.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0030.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0030.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\fragment.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0015.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0015.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_white_bottom_left.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\btn_white_bottom_left.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0026.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0026.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0012.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0012.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0001.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0001.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_black_24dp.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_star_black_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0025.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0025.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selection_divider.9.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\selection_divider.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0047.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0047.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0042.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0042.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0041.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0041.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smoke.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\smoke.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0048.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0048.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0003.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0003.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0009.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0009.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_favorite_border_white_24dp.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_favorite_border_white_24dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0032.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0032.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0035.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0035.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0013.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0013.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_navigation_check.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\ic_navigation_check.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0010.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0010.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_blue_top_c.xml",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\bg_blue_top_c.xml"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0019.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0019.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fire.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\fire.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0016.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0016.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\ab303220adb3bb1436b8d52bee004c712255c7b0\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0038.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0038.png"
+    },
+    {
+        "merged": "F:\\project\\KFApp\\baselibrary\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wenzi0051.png",
+        "source": "F:\\project\\KFApp\\baselibrary\\src\\main\\res\\drawable-hdpi\\wenzi0051.png"
+    }
+]
