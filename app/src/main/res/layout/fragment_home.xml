@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@mipmap/bg_home"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <talex.zsw.baselibrary.widget.CircleImageView
+            android:id="@+id/mImage"
+            android:layout_width="80dp"
+            android:layout_height="80dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:drawablePadding="5dp"
+            android:drawableRight="@mipmap/main_icon_boy"
+            android:text="用户名"
+            android:textColor="@color/black2"
+            android:textSize="@dimen/text_title" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:drawableLeft="@mipmap/icon_kfs"
+            android:drawablePadding="5dp"
+            android:gravity="bottom"
+            android:text="成为快发师优势"
+            android:textColor="@color/black2"
+            android:textSize="@dimen/text_title" />
+
+        <com.xxl.kfapp.widget.LinedEditText
+            android:id="@+id/lineText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:lineSpacingExtra="15dp"
+            android:textSize="@dimen/middle" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/btn_begin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:src="@mipmap/img_button_home" />
+
+</LinearLayout>

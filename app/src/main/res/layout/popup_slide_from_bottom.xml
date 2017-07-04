@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/click_to_dismiss"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/popup_bg"
+        >
+
+        <LinearLayout
+            android:id="@+id/popup_anima"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@android:color/white"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tx_1"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y120"
+                android:gravity="center"
+                android:text="@string/alipay"/>
+
+            <View
+                style="@style/line_style"/>
+
+            <TextView
+                android:id="@+id/tx_2"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y120"
+                android:gravity="center"
+                android:text="@string/wxpay"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y10"
+                android:background="@color/popup_bg"/>
+
+            <TextView
+                android:id="@+id/tx_3"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y120"
+                android:gravity="center"
+                android:text="@string/cancel"/>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
