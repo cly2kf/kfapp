@@ -7,7 +7,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="150dp"
+        android:layout_height="@dimen/y335"
         android:background="@mipmap/bg_home"
         android:gravity="center"
         android:orientation="vertical">
@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:drawablePadding="5dp"
-            android:drawableRight="@mipmap/main_icon_boy"
+            android:drawableEnd="@mipmap/main_icon_boy"
             android:text="用户名"
             android:textColor="@color/black2"
             android:textSize="@dimen/text_title" />

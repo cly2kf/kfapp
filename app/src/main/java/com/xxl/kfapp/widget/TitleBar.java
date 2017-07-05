@@ -59,7 +59,6 @@ public class TitleBar extends RelativeLayout {
                 ((Activity) context).finish();
             }
         });
-
     }
 
     /**
@@ -75,14 +74,6 @@ public class TitleBar extends RelativeLayout {
     public void setTitle(int resid) {
         vTvTitle.setText(resid);
     }
-
-    /**
-     * 设置左侧返回按钮点击事件
-     */
-//    public void setBackOnclickListener(OnClickListener listener) {
-//        vIvLeft.setVisibility(VISIBLE);
-//        vIvLeft.setOnClickListener(listener);
-//    }
 
     public void setBackOnclickListener(final Activity activity) {
         vIvLeft.setVisibility(VISIBLE);
@@ -108,15 +99,6 @@ public class TitleBar extends RelativeLayout {
     public void hideBackButton() {
         tvLeft.setVisibility(View.GONE);
     }
-
-    /**
-     * 设置左侧返回按钮图片
-     */
-//	public void setBackSrc(int resid)
-//	{
-//		tvLeft.setVisibility( View.VISIBLE );
-//		tvLeft.setImageResource( resid );
-//	}
 
     /**
      * 设置右边按钮点击事件
@@ -192,7 +174,7 @@ public class TitleBar extends RelativeLayout {
     /**
      * 设置左边文字和点击事件
      */
-    public void SetLeftCode(OnClickListener listener) {
+    public void setLeftCode(OnClickListener listener) {
         tvLeft.setVisibility(View.GONE);
         vIvLeftCode.setVisibility(View.VISIBLE);
         vIvLeftCode.setOnClickListener(listener);
@@ -200,5 +182,41 @@ public class TitleBar extends RelativeLayout {
 
     public void setBackgroundColor(int color) {
         layout.setBackgroundColor(color);
+    }
+
+    public TextView getTvLeft() {
+        return tvLeft;
+    }
+
+    public ImageView getvIvLeftCode() {
+        return vIvLeftCode;
+    }
+
+    public ImageView getvIvLeft() {
+        return vIvLeft;
+    }
+
+    public ImageView getvIvCenter() {
+        return vIvCenter;
+    }
+
+    public ImageView getvIvRight2() {
+        return vIvRight2;
+    }
+
+    public ImageView getvIvRight() {
+        return vIvRight;
+    }
+
+    public TextView getvTvLeft() {
+        return vTvLeft;
+    }
+
+    public TextView getvTvTitle() {
+        return vTvTitle;
+    }
+
+    public TextView getvTvRight() {
+        return vTvRight;
     }
 }

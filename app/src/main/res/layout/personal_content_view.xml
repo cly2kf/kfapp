@@ -7,8 +7,10 @@
     android:orientation="vertical">
 
     <RelativeLayout
+        android:id="@+id/lyt_nickname"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/white">
 
         <TextView
             android:layout_width="wrap_content"
@@ -21,6 +23,7 @@
             android:textSize="18sp"/>
 
         <TextView
+            android:id="@+id/nickname"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -29,24 +32,26 @@
             android:gravity="center_vertical"
             android:padding="10dp"
             android:text="酒店订单"
-            android:textColor="@color/appmsg_custom"
+            android:textColor="@color/black2"
             android:textSize="18sp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="@dimen/x30"
             android:layout_centerVertical="true"
-            android:src="@drawable/ic_back_white"/>
+            android:layout_marginEnd="@dimen/x30"
+            android:src="@mipmap/arrow_right_gray"/>
 
     </RelativeLayout>
 
-    <include layout="@layout/include_line2"/>
+    <include layout="@layout/gray_line"/>
 
     <RelativeLayout
+        android:id="@+id/lyt_gender"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/white">
 
         <TextView
             android:layout_width="wrap_content"
@@ -59,6 +64,7 @@
             android:textSize="18sp"/>
 
         <TextView
+            android:id="@+id/gender"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -67,23 +73,24 @@
             android:gravity="center_vertical"
             android:padding="10dp"
             android:text="酒店订单"
-            android:textColor="@color/appmsg_custom"
+            android:textColor="@color/black2"
             android:textSize="18sp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="@dimen/x30"
             android:layout_centerVertical="true"
-            android:src="@drawable/ic_back_white"/>
+            android:layout_marginEnd="@dimen/x30"
+            android:src="@mipmap/arrow_right_gray"/>
     </RelativeLayout>
 
-    <include layout="@layout/include_line2"/>
+    <include layout="@layout/gray_line"/>
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/white">
 
         <TextView
             android:layout_width="wrap_content"
@@ -96,6 +103,7 @@
             android:textSize="18sp"/>
 
         <TextView
+            android:id="@+id/job"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -104,24 +112,25 @@
             android:gravity="center_vertical"
             android:padding="10dp"
             android:text="酒店订单"
-            android:textColor="@color/appmsg_custom"
+            android:textColor="@color/black2"
             android:textSize="18sp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="@dimen/x30"
             android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/x30"
             android:src="@drawable/ic_back_white"
             android:visibility="gone"/>
     </RelativeLayout>
 
-    <include layout="@layout/include_line2"/>
+    <include layout="@layout/gray_line"/>
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/white">
 
         <TextView
             android:layout_width="wrap_content"
@@ -134,6 +143,7 @@
             android:textSize="18sp"/>
 
         <TextView
+            android:id="@+id/job_num"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -142,24 +152,25 @@
             android:gravity="center_vertical"
             android:padding="10dp"
             android:text="酒店订单"
-            android:textColor="@color/appmsg_custom"
+            android:textColor="@color/black2"
             android:textSize="18sp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="@dimen/x30"
             android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/x30"
             android:src="@drawable/ic_back_white"
             android:visibility="gone"/>
     </RelativeLayout>
 
-    <include layout="@layout/include_line2"/>
+    <include layout="@layout/gray_line"/>
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/white">
 
         <TextView
             android:layout_width="wrap_content"
@@ -172,6 +183,7 @@
             android:textSize="18sp"/>
 
         <TextView
+            android:id="@+id/points"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -180,24 +192,26 @@
             android:gravity="center_vertical"
             android:padding="10dp"
             android:text="酒店订单"
-            android:textColor="@color/appmsg_custom"
+            android:textColor="@color/black2"
             android:textSize="18sp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="@dimen/x30"
             android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/x30"
             android:src="@drawable/ic_back_white"
             android:visibility="gone"/>
     </RelativeLayout>
 
-    <include layout="@layout/include_line2"/>
+    <include layout="@layout/gray_line"/>
 
     <RelativeLayout
+        android:id="@+id/lyt_order"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/white">
 
         <TextView
             android:layout_width="wrap_content"
@@ -210,6 +224,7 @@
             android:textSize="18sp"/>
 
         <TextView
+            android:id="@+id/order"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -218,23 +233,25 @@
             android:gravity="center_vertical"
             android:padding="10dp"
             android:text="酒店订单"
-            android:textColor="@color/appmsg_custom"
+            android:textColor="@color/black2"
             android:textSize="18sp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="@dimen/x30"
             android:layout_centerVertical="true"
-            android:src="@drawable/ic_back_white"/>
+            android:layout_marginEnd="@dimen/x30"
+            android:src="@mipmap/arrow_right_gray"/>
     </RelativeLayout>
 
-    <include layout="@layout/include_line2"/>
+    <include layout="@layout/gray_line"/>
 
     <RelativeLayout
+        android:id="@+id/lyt_address"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/white">
 
         <TextView
             android:layout_width="wrap_content"
@@ -247,6 +264,7 @@
             android:textSize="18sp"/>
 
         <TextView
+            android:id="@+id/address"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -255,23 +273,25 @@
             android:gravity="center_vertical"
             android:padding="10dp"
             android:text="酒店订单"
-            android:textColor="@color/appmsg_custom"
+            android:textColor="@color/black2"
             android:textSize="18sp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="@dimen/x30"
             android:layout_centerVertical="true"
-            android:src="@drawable/ic_back_white"/>
+            android:layout_marginEnd="@dimen/x30"
+            android:src="@mipmap/arrow_right_gray"/>
     </RelativeLayout>
 
-    <include layout="@layout/include_line2"/>
+    <include layout="@layout/gray_line"/>
 
     <RelativeLayout
+        android:id="@+id/lyt_notify"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/white">
 
         <TextView
             android:layout_width="wrap_content"
@@ -284,6 +304,7 @@
             android:textSize="18sp"/>
 
         <TextView
+            android:id="@+id/notification"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
@@ -292,15 +313,15 @@
             android:gravity="center_vertical"
             android:padding="10dp"
             android:text="酒店订单"
-            android:textColor="@color/appmsg_custom"
+            android:textColor="@color/black2"
             android:textSize="18sp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="@dimen/x30"
             android:layout_centerVertical="true"
-            android:src="@drawable/ic_back_white"/>
+            android:layout_marginEnd="@dimen/x30"
+            android:src="@mipmap/arrow_right_gray"/>
     </RelativeLayout>
 </LinearLayout>

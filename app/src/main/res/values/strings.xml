@@ -5,6 +5,8 @@
     <string name="alipay">支付宝支付</string>
     <string name="wxpay">微信支付</string>
     <string name="cancel">取消</string>
+    <string name="input_nickname">请输入昵称，最长30个字</string>
+    <string name="new_address">新增收货人地址</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>

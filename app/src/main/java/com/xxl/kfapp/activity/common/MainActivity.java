@@ -69,7 +69,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         mIconText4.setOnClickListener(this);
         mIconText5.setOnClickListener(this);
         mTitleBar.setTitle("首页");
-        mTitleBar.SetLeftCode(new View.OnClickListener() {
+        mTitleBar.setLeftCode(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, CaptureActivity.class));
@@ -83,8 +83,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             }
         });
         mFragmentManager = getSupportFragmentManager();
-
-
     }
 
     @Override
