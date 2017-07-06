@@ -81,7 +81,7 @@ public class ModifyAddrActivity extends BaseActivity {
                 }
             }
         });
-        task.execute("贵州", "毕节", "纳雍");
+        task.execute("浙江", "杭州", "滨江");
     }
 
     @Override
